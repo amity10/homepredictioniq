@@ -22,7 +22,7 @@ export default function Predict() {
       setBgIndex((prev) => (prev + 1) % images.length);
     }, 6000);
     return () => clearInterval(interval);
-  }, []);
+  }, [images.length]);
 
   /* ---------------- State ---------------- */
 
