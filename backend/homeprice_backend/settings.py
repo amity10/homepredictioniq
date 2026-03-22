@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-m)0b*zq3g*-fuz02rc0(zi!hs08xz&yaka)wv1#q0(xpn5q4gn
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -127,6 +127,7 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CORS_ALLOW_ALL_ORIGINS = True
+CORS_ALLOW_CREDENTIALS = True
 from corsheaders.defaults import default_headers
 
 CORS_ALLOW_HEADERS = list(default_headers) + [
@@ -136,13 +137,9 @@ CORS_ALLOW_HEADERS = list(default_headers) + [
 
 
 CSRF_TRUSTED_ORIGINS = [
-    "http://localhost:3000",
-    "http://127.0.0.1:8001",
-    "http://localhost:8001",
-    "http://127.0.0.1:8002",
-    "http://localhost:8002",
-    "http://127.0.0.1:8003",
-    "http://localhost:8003",
-    "http://127.0.0.1:8000",
-    "http://localhost:8000",
+   "https://homepredictioniq-ffn1.vercel.app"
+]
+
+CORS_ALLOWED_ORIGINS = [
+    "https://homepredictioniq-ffn1.vercel.app"
 ]
