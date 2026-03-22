@@ -3,7 +3,7 @@ import React from 'react';
 import { useAuth } from "@clerk/clerk-react";
 
 export default function About() {
-  const { getToken } = useAuth(); // Just in case we need auth later, but this page can be public
+  const { } = useAuth(); // Just in case we need auth later, but this page can be public
 
   return (
     <div className="relative min-h-screen text-white px-6 py-12 font-sans">
