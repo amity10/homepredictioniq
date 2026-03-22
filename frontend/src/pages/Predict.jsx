@@ -60,7 +60,7 @@ export default function Predict() {
   /* ---------------- Load Dropdown Options ---------------- */
 
   useEffect(() => {
-    fetch("http://localhost:8000/api/options/")
+    fetch("https://homepredictioniq.onrender.com/api/options/")
       .then(res => res.json())
       .then(data => setOptions(data))
       .catch(console.log);
@@ -113,7 +113,7 @@ export default function Predict() {
 
       const token = await getToken();
 
-      const res = await fetch("http://localhost:8000/api/predict/", {
+      const res = await fetch("https://homepredictioniq.onrender.com/api/predict//", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -164,7 +164,7 @@ export default function Predict() {
 
       const token = await getToken();
 
-      const res = await fetch("http://localhost:8000/api/save_prediction/", {
+      const res = await fetch("https://homepredictioniq.onrender.com/api/save_prediction", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -197,7 +197,7 @@ export default function Predict() {
 
       const token = await getToken();
 
-      await fetch("http://localhost:8000/api/contact_agent/", {
+      await fetch("https://homepredictioniq.onrender.com/api/contact_agent/", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
