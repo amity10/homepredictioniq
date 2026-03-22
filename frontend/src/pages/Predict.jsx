@@ -113,7 +113,7 @@ export default function Predict() {
 
       const token = await getToken();
 
-      const res = await fetch("https://homepredictioniq.onrender.com/api/predict//", {
+      const res = await fetch("https://homepredictioniq.onrender.com/api/predict/", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -164,7 +164,7 @@ export default function Predict() {
 
       const token = await getToken();
 
-      const res = await fetch("https://homepredictioniq.onrender.com/api/save_prediction", {
+      const res = await fetch("https://homepredictioniq.onrender.com/api/save_prediction/", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -377,7 +377,7 @@ export default function Predict() {
                 onClick={handleContactSubmit}
                 className="w-full bg-gradient-to-r from-indigo-500 to-purple-600 py-3 rounded-xl font-semibold shadow-lg hover:scale-105 transition"
               >
-                Submit Request
+                Submit Requests
               </button>
 
             </div>
