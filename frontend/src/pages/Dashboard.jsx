@@ -108,7 +108,7 @@ export default function Dashboard() {
       try {
         const token = await getToken();
         const res = await fetch(
-          "http://localhost:8000/api/saved_predictions/",
+          "https://homepredictioniq.onrender.com/api/saved_predictions/",
           {
             headers: {
               Authorization: `Bearer ${token}`,

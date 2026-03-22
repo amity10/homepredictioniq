@@ -38,10 +38,10 @@ export default function Insights() {
 
         // Parallel Fetch for efficiency
         const [resFeatures, resMarket] = await Promise.all([
-          fetch("http://localhost:8000/api/analytics/features/", {
+          fetch("https://homepredictioniq.onrender.com/api/analytics/features/", {
             headers: { Authorization: `Bearer ${token}` }
           }),
-          fetch("http://localhost:8000/api/analytics/market_status/", {
+          fetch("https://homepredictioniq.onrender.com/api/analytics/market_status/", {
             headers: { Authorization: `Bearer ${token}`, "X-Clerk-User-ID": user.id }
           })
         ]);
