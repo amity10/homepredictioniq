@@ -1,0 +1,26 @@
+[
+    {
+        "feature": "area",
+        "score": 0.6124362026508179
+    },
+    {
+        "feature": "region",
+        "score": 0.207779163391402
+    },
+    {
+        "feature": "bhk",
+        "score": 0.1272929942622905
+    },
+    {
+        "feature": "age",
+        "score": 0.0360651747573176
+    },
+    {
+        "feature": "type",
+        "score": 0.008789980999530251
+    },
+    {
+        "feature": "status",
+        "score": 0.007636483938641828
+    }
+]

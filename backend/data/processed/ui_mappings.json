@@ -1,0 +1,958 @@
+{
+    "region": [
+        {
+            "label": "Adaigaon",
+            "value": 0
+        },
+        {
+            "label": "Agripada",
+            "value": 1
+        },
+        {
+            "label": "Airoli",
+            "value": 2
+        },
+        {
+            "label": "Ambarnath",
+            "value": 3
+        },
+        {
+            "label": "Ambernath East",
+            "value": 4
+        },
+        {
+            "label": "Ambernath West",
+            "value": 5
+        },
+        {
+            "label": "Ambivali",
+            "value": 6
+        },
+        {
+            "label": "Andheri East",
+            "value": 7
+        },
+        {
+            "label": "Andheri West",
+            "value": 8
+        },
+        {
+            "label": "Anjurdive",
+            "value": 9
+        },
+        {
+            "label": "Antop Hill",
+            "value": 10
+        },
+        {
+            "label": "Asangaon",
+            "value": 11
+        },
+        {
+            "label": "Ashok nagar",
+            "value": 12
+        },
+        {
+            "label": "Babulnath Road",
+            "value": 13
+        },
+        {
+            "label": "Badlapur",
+            "value": 14
+        },
+        {
+            "label": "Badlapur East",
+            "value": 15
+        },
+        {
+            "label": "Badlapur West",
+            "value": 16
+        },
+        {
+            "label": "Bandra",
+            "value": 17
+        },
+        {
+            "label": "Bandra East",
+            "value": 18
+        },
+        {
+            "label": "Bandra Kurla Complex",
+            "value": 19
+        },
+        {
+            "label": "Bandra West",
+            "value": 20
+        },
+        {
+            "label": "Belapur",
+            "value": 21
+        },
+        {
+            "label": "Bhandup East",
+            "value": 22
+        },
+        {
+            "label": "Bhandup West",
+            "value": 23
+        },
+        {
+            "label": "Bhayandar East",
+            "value": 24
+        },
+        {
+            "label": "Bhayandar West",
+            "value": 25
+        },
+        {
+            "label": "Bhiwandi",
+            "value": 26
+        },
+        {
+            "label": "Bhoiwada",
+            "value": 27
+        },
+        {
+            "label": "Boisar",
+            "value": 28
+        },
+        {
+            "label": "Borivali",
+            "value": 29
+        },
+        {
+            "label": "Borivali East",
+            "value": 30
+        },
+        {
+            "label": "Borivali West",
+            "value": 31
+        },
+        {
+            "label": "Byculla",
+            "value": 32
+        },
+        {
+            "label": "Chandivali",
+            "value": 33
+        },
+        {
+            "label": "Chembur",
+            "value": 34
+        },
+        {
+            "label": "Chembur East",
+            "value": 35
+        },
+        {
+            "label": "Churchgate",
+            "value": 36
+        },
+        {
+            "label": "Colaba",
+            "value": 37
+        },
+        {
+            "label": "Cuffe Parade",
+            "value": 38
+        },
+        {
+            "label": "Dadar East",
+            "value": 39
+        },
+        {
+            "label": "Dadar West",
+            "value": 40
+        },
+        {
+            "label": "Dahisar",
+            "value": 41
+        },
+        {
+            "label": "Dahisar East",
+            "value": 42
+        },
+        {
+            "label": "Dahisar West",
+            "value": 43
+        },
+        {
+            "label": "Deonar",
+            "value": 44
+        },
+        {
+            "label": "Dharavi",
+            "value": 45
+        },
+        {
+            "label": "Diva",
+            "value": 46
+        },
+        {
+            "label": "Dombivali",
+            "value": 47
+        },
+        {
+            "label": "Dombivali East",
+            "value": 48
+        },
+        {
+            "label": "Dombivli (West)",
+            "value": 49
+        },
+        {
+            "label": "Dronagiri",
+            "value": 50
+        },
+        {
+            "label": "Fort",
+            "value": 51
+        },
+        {
+            "label": "GTB Nagar",
+            "value": 52
+        },
+        {
+            "label": "Gandhar Nagar",
+            "value": 53
+        },
+        {
+            "label": "Gauripada",
+            "value": 54
+        },
+        {
+            "label": "Ghansoli",
+            "value": 55
+        },
+        {
+            "label": "Ghatkopar East",
+            "value": 56
+        },
+        {
+            "label": "Ghatkopar West",
+            "value": 57
+        },
+        {
+            "label": "Ghodbunder Road",
+            "value": 58
+        },
+        {
+            "label": "Girgaon",
+            "value": 59
+        },
+        {
+            "label": "Goregaon",
+            "value": 60
+        },
+        {
+            "label": "Goregaon East",
+            "value": 61
+        },
+        {
+            "label": "Goregaon West",
+            "value": 62
+        },
+        {
+            "label": "Govandi",
+            "value": 63
+        },
+        {
+            "label": "Greater Khanda",
+            "value": 64
+        },
+        {
+            "label": "Hindu Colony",
+            "value": 65
+        },
+        {
+            "label": "Hiranandani Estates",
+            "value": 66
+        },
+        {
+            "label": "Jogeshwari East",
+            "value": 67
+        },
+        {
+            "label": "Jogeshwari West",
+            "value": 68
+        },
+        {
+            "label": "Juhu",
+            "value": 69
+        },
+        {
+            "label": "Juhu Scheme",
+            "value": 70
+        },
+        {
+            "label": "Juinagar",
+            "value": 71
+        },
+        {
+            "label": "Kalamboli",
+            "value": 72
+        },
+        {
+            "label": "Kalher",
+            "value": 73
+        },
+        {
+            "label": "Kalwa",
+            "value": 74
+        },
+        {
+            "label": "Kalyan East",
+            "value": 75
+        },
+        {
+            "label": "Kalyan West",
+            "value": 76
+        },
+        {
+            "label": "Kamathipura",
+            "value": 77
+        },
+        {
+            "label": "Kamothe",
+            "value": 78
+        },
+        {
+            "label": "Kandivali East",
+            "value": 79
+        },
+        {
+            "label": "Kandivali West",
+            "value": 80
+        },
+        {
+            "label": "Kanjurmarg",
+            "value": 81
+        },
+        {
+            "label": "Kanjurmarg East",
+            "value": 82
+        },
+        {
+            "label": "Karanjade",
+            "value": 83
+        },
+        {
+            "label": "Karjat",
+            "value": 84
+        },
+        {
+            "label": "Kasheli",
+            "value": 85
+        },
+        {
+            "label": "Kewale",
+            "value": 86
+        },
+        {
+            "label": "Khanda Colony",
+            "value": 87
+        },
+        {
+            "label": "Khar",
+            "value": 88
+        },
+        {
+            "label": "Khar West",
+            "value": 89
+        },
+        {
+            "label": "Khardi",
+            "value": 90
+        },
+        {
+            "label": "Kharghar",
+            "value": 91
+        },
+        {
+            "label": "Khatiwali",
+            "value": 92
+        },
+        {
+            "label": "Khopoli",
+            "value": 93
+        },
+        {
+            "label": "Koper Khairane",
+            "value": 94
+        },
+        {
+            "label": "Koproli",
+            "value": 95
+        },
+        {
+            "label": "Kurla",
+            "value": 96
+        },
+        {
+            "label": "Kurla East",
+            "value": 97
+        },
+        {
+            "label": "Kurla West",
+            "value": 98
+        },
+        {
+            "label": "L I C Colony",
+            "value": 99
+        },
+        {
+            "label": "Lower Parel",
+            "value": 100
+        },
+        {
+            "label": "MATUNGA WEST",
+            "value": 101
+        },
+        {
+            "label": "Mahalaxmi",
+            "value": 102
+        },
+        {
+            "label": "Mahavir Nagar",
+            "value": 103
+        },
+        {
+            "label": "Mahim",
+            "value": 104
+        },
+        {
+            "label": "Mahim West",
+            "value": 105
+        },
+        {
+            "label": "Malabar Hill",
+            "value": 106
+        },
+        {
+            "label": "Malad East",
+            "value": 107
+        },
+        {
+            "label": "Malad West",
+            "value": 108
+        },
+        {
+            "label": "Maneklal Estate",
+            "value": 109
+        },
+        {
+            "label": "Manjarli",
+            "value": 110
+        },
+        {
+            "label": "Manpada",
+            "value": 111
+        },
+        {
+            "label": "Marine Lines",
+            "value": 112
+        },
+        {
+            "label": "Matunga",
+            "value": 113
+        },
+        {
+            "label": "Mazagaon",
+            "value": 114
+        },
+        {
+            "label": "Mazgaon",
+            "value": 115
+        },
+        {
+            "label": "Mira Road",
+            "value": 116
+        },
+        {
+            "label": "Mira Road East",
+            "value": 117
+        },
+        {
+            "label": "Mulund",
+            "value": 118
+        },
+        {
+            "label": "Mulund East",
+            "value": 119
+        },
+        {
+            "label": "Mulund West",
+            "value": 120
+        },
+        {
+            "label": "Mumbai Central",
+            "value": 121
+        },
+        {
+            "label": "Mumbra",
+            "value": 122
+        },
+        {
+            "label": "Nahur East",
+            "value": 123
+        },
+        {
+            "label": "Naigaon East",
+            "value": 124
+        },
+        {
+            "label": "Nala Sopara",
+            "value": 125
+        },
+        {
+            "label": "Nalasopara East",
+            "value": 126
+        },
+        {
+            "label": "Nalasopara West",
+            "value": 127
+        },
+        {
+            "label": "Napeansea Road",
+            "value": 128
+        },
+        {
+            "label": "Naupada",
+            "value": 129
+        },
+        {
+            "label": "Navade",
+            "value": 130
+        },
+        {
+            "label": "Neral",
+            "value": 131
+        },
+        {
+            "label": "Nerul",
+            "value": 132
+        },
+        {
+            "label": "Nilje Gaon",
+            "value": 133
+        },
+        {
+            "label": "Owale",
+            "value": 134
+        },
+        {
+            "label": "Palava",
+            "value": 135
+        },
+        {
+            "label": "Palghar",
+            "value": 136
+        },
+        {
+            "label": "Pali Hill",
+            "value": 137
+        },
+        {
+            "label": "Palidevad",
+            "value": 138
+        },
+        {
+            "label": "Panch Pakhdi",
+            "value": 139
+        },
+        {
+            "label": "Panvel",
+            "value": 140
+        },
+        {
+            "label": "Parel",
+            "value": 141
+        },
+        {
+            "label": "Patlipada",
+            "value": 142
+        },
+        {
+            "label": "Peddar Road",
+            "value": 143
+        },
+        {
+            "label": "Pen",
+            "value": 144
+        },
+        {
+            "label": "Pestom Sagar Colony",
+            "value": 145
+        },
+        {
+            "label": "Police Colony",
+            "value": 146
+        },
+        {
+            "label": "Powai",
+            "value": 147
+        },
+        {
+            "label": "Prabhadevi",
+            "value": 148
+        },
+        {
+            "label": "Rabale",
+            "value": 149
+        },
+        {
+            "label": "Rambaug",
+            "value": 150
+        },
+        {
+            "label": "Rasayani",
+            "value": 151
+        },
+        {
+            "label": "Roadpali",
+            "value": 152
+        },
+        {
+            "label": "Sanpada",
+            "value": 153
+        },
+        {
+            "label": "Santacruz East",
+            "value": 154
+        },
+        {
+            "label": "Santacruz West",
+            "value": 155
+        },
+        {
+            "label": "Saphale",
+            "value": 156
+        },
+        {
+            "label": "Seawoods",
+            "value": 157
+        },
+        {
+            "label": "Sector 11 Koparkhairane",
+            "value": 158
+        },
+        {
+            "label": "Sector 12 Kharghar",
+            "value": 159
+        },
+        {
+            "label": "Sector 14 Vashi",
+            "value": 160
+        },
+        {
+            "label": "Sector 17 Ulwe",
+            "value": 161
+        },
+        {
+            "label": "Sector 18 Kharghar",
+            "value": 162
+        },
+        {
+            "label": "Sector 19 Kamothe",
+            "value": 163
+        },
+        {
+            "label": "Sector 19 Kharghar",
+            "value": 164
+        },
+        {
+            "label": "Sector 20 Kamothe",
+            "value": 165
+        },
+        {
+            "label": "Sector 20 Ulwe",
+            "value": 166
+        },
+        {
+            "label": "Sector 21 Kamothe",
+            "value": 167
+        },
+        {
+            "label": "Sector 21 Kharghar",
+            "value": 168
+        },
+        {
+            "label": "Sector 21 Nerul",
+            "value": 169
+        },
+        {
+            "label": "Sector 22 Kamothe",
+            "value": 170
+        },
+        {
+            "label": "Sector 23 Ulwe",
+            "value": 171
+        },
+        {
+            "label": "Sector 30 Kharghar",
+            "value": 172
+        },
+        {
+            "label": "Sector 6 Kamothe",
+            "value": 173
+        },
+        {
+            "label": "Sector 7 Kharghar",
+            "value": 174
+        },
+        {
+            "label": "Sector 8 New panvel",
+            "value": 175
+        },
+        {
+            "label": "Sector 9 Vashi",
+            "value": 176
+        },
+        {
+            "label": "Sector-12 Kamothe",
+            "value": 177
+        },
+        {
+            "label": "Sector-14 Koparkhairane",
+            "value": 178
+        },
+        {
+            "label": "Sector-3 Ulwe",
+            "value": 179
+        },
+        {
+            "label": "Sector-35D Kharghar",
+            "value": 180
+        },
+        {
+            "label": "Sector-4 New Panvel",
+            "value": 181
+        },
+        {
+            "label": "Sector-50 Seawoods",
+            "value": 182
+        },
+        {
+            "label": "Sector-9 Kamothe",
+            "value": 183
+        },
+        {
+            "label": "Sector-9 Ulwe",
+            "value": 184
+        },
+        {
+            "label": "Sewri",
+            "value": 185
+        },
+        {
+            "label": "Shahapur",
+            "value": 186
+        },
+        {
+            "label": "Shelu",
+            "value": 187
+        },
+        {
+            "label": "Shil Phata",
+            "value": 188
+        },
+        {
+            "label": "Sion",
+            "value": 189
+        },
+        {
+            "label": "Taloja",
+            "value": 190
+        },
+        {
+            "label": "Taloje",
+            "value": 191
+        },
+        {
+            "label": "Tardeo",
+            "value": 192
+        },
+        {
+            "label": "Thane East",
+            "value": 193
+        },
+        {
+            "label": "Thane West",
+            "value": 194
+        },
+        {
+            "label": "Tilak Nagar",
+            "value": 195
+        },
+        {
+            "label": "Titwala",
+            "value": 196
+        },
+        {
+            "label": "Ulhasnagar",
+            "value": 197
+        },
+        {
+            "label": "Ulwe",
+            "value": 198
+        },
+        {
+            "label": "Umroli",
+            "value": 199
+        },
+        {
+            "label": "Unnat Nagar",
+            "value": 200
+        },
+        {
+            "label": "Uran",
+            "value": 201
+        },
+        {
+            "label": "Usarghar Gaon",
+            "value": 202
+        },
+        {
+            "label": "Uttan",
+            "value": 203
+        },
+        {
+            "label": "Vangani",
+            "value": 204
+        },
+        {
+            "label": "Vasai",
+            "value": 205
+        },
+        {
+            "label": "Vasai West",
+            "value": 206
+        },
+        {
+            "label": "Vasai east",
+            "value": 207
+        },
+        {
+            "label": "Vashi",
+            "value": 208
+        },
+        {
+            "label": "Vasind",
+            "value": 209
+        },
+        {
+            "label": "Versova",
+            "value": 210
+        },
+        {
+            "label": "Vevoor",
+            "value": 211
+        },
+        {
+            "label": "Vichumbe",
+            "value": 212
+        },
+        {
+            "label": "Vikhroli",
+            "value": 213
+        },
+        {
+            "label": "Vikroli East",
+            "value": 214
+        },
+        {
+            "label": "Ville Parle East",
+            "value": 215
+        },
+        {
+            "label": "Ville Parle West",
+            "value": 216
+        },
+        {
+            "label": "Virar",
+            "value": 217
+        },
+        {
+            "label": "Virar East",
+            "value": 218
+        },
+        {
+            "label": "Virar West",
+            "value": 219
+        },
+        {
+            "label": "Wadala",
+            "value": 220
+        },
+        {
+            "label": "Warai",
+            "value": 221
+        },
+        {
+            "label": "Worli",
+            "value": 222
+        },
+        {
+            "label": "kandivali",
+            "value": 223
+        },
+        {
+            "label": "kasaradavali thane west",
+            "value": 224
+        },
+        {
+            "label": "mumbai",
+            "value": 225
+        },
+        {
+            "label": "sector",
+            "value": 226
+        },
+        {
+            "label": "vile parle west",
+            "value": 227
+        }
+    ],
+    "status": [
+        {
+            "label": "Ready to move",
+            "value": 0
+        },
+        {
+            "label": "Under Construction",
+            "value": 1
+        }
+    ],
+    "type": [
+        {
+            "label": "Apartment",
+            "value": 0
+        },
+        {
+            "label": "Independent House",
+            "value": 1
+        },
+        {
+            "label": "Penthouse",
+            "value": 2
+        },
+        {
+            "label": "Studio Apartment",
+            "value": 3
+        },
+        {
+            "label": "Villa",
+            "value": 4
+        }
+    ],
+    "age": [
+        {
+            "label": "New",
+            "value": 0
+        },
+        {
+            "label": "Resale",
+            "value": 1
+        }
+    ]
+}

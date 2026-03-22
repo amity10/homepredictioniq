@@ -1,0 +1,5484 @@
+{
+    "8": {
+        "overall": {
+            "avg_price": 326.84,
+            "avg_sqft": 23713.5,
+            "count": 1842
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 415.93,
+                "avg_sqft": 29148.01,
+                "count": 499
+            },
+            "4": {
+                "avg_price": 850.58,
+                "avg_sqft": 33303.79,
+                "count": 160
+            },
+            "2": {
+                "avg_price": 239.72,
+                "avg_sqft": 25754.25,
+                "count": 626
+            },
+            "1": {
+                "avg_price": 61.17,
+                "avg_sqft": 11254.14,
+                "count": 503
+            },
+            "6": {
+                "avg_price": 1303.5,
+                "avg_sqft": 35191.83,
+                "count": 10
+            },
+            "5": {
+                "avg_price": 1306.76,
+                "avg_sqft": 37210.9,
+                "count": 41
+            },
+            "9": {
+                "avg_price": 3000.0,
+                "avg_sqft": 35294.12,
+                "count": 1
+            },
+            "7": {
+                "avg_price": 2950.0,
+                "avg_sqft": 44294.29,
+                "count": 1
+            },
+            "8": {
+                "avg_price": 5000.0,
+                "avg_sqft": 66666.67,
+                "count": 1
+            }
+        }
+    },
+    "124": {
+        "overall": {
+            "avg_price": 38.39,
+            "avg_sqft": 6265.77,
+            "count": 847
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 47.98,
+                "avg_sqft": 6747.44,
+                "count": 213
+            },
+            "1": {
+                "avg_price": 32.37,
+                "avg_sqft": 6010.9,
+                "count": 583
+            },
+            "3": {
+                "avg_price": 67.74,
+                "avg_sqft": 7248.11,
+                "count": 49
+            },
+            "4": {
+                "avg_price": 53.0,
+                "avg_sqft": 5196.08,
+                "count": 2
+            }
+        }
+    },
+    "31": {
+        "overall": {
+            "avg_price": 211.4,
+            "avg_sqft": 21879.23,
+            "count": 881
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 186.87,
+                "avg_sqft": 22125.31,
+                "count": 379
+            },
+            "3": {
+                "avg_price": 292.26,
+                "avg_sqft": 23789.36,
+                "count": 222
+            },
+            "4": {
+                "avg_price": 466.21,
+                "avg_sqft": 25086.72,
+                "count": 47
+            },
+            "1": {
+                "avg_price": 96.59,
+                "avg_sqft": 18752.51,
+                "count": 221
+            },
+            "5": {
+                "avg_price": 607.78,
+                "avg_sqft": 24903.82,
+                "count": 9
+            },
+            "6": {
+                "avg_price": 602.0,
+                "avg_sqft": 20453.53,
+                "count": 3
+            }
+        }
+    },
+    "140": {
+        "overall": {
+            "avg_price": 85.74,
+            "avg_sqft": 9614.7,
+            "count": 1474
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 81.62,
+                "avg_sqft": 9663.18,
+                "count": 724
+            },
+            "1": {
+                "avg_price": 47.3,
+                "avg_sqft": 9270.19,
+                "count": 456
+            },
+            "3": {
+                "avg_price": 140.26,
+                "avg_sqft": 9918.89,
+                "count": 233
+            },
+            "4": {
+                "avg_price": 202.88,
+                "avg_sqft": 10365.85,
+                "count": 56
+            },
+            "6": {
+                "avg_price": 333.8,
+                "avg_sqft": 11424.63,
+                "count": 5
+            }
+        }
+    },
+    "117": {
+        "overall": {
+            "avg_price": 81.41,
+            "avg_sqft": 9936.8,
+            "count": 9902
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 91.28,
+                "avg_sqft": 9894.41,
+                "count": 4349
+            },
+            "1": {
+                "avg_price": 60.76,
+                "avg_sqft": 9770.28,
+                "count": 4569
+            },
+            "3": {
+                "avg_price": 130.72,
+                "avg_sqft": 10955.62,
+                "count": 913
+            },
+            "4": {
+                "avg_price": 166.69,
+                "avg_sqft": 10223.58,
+                "count": 65
+            },
+            "6": {
+                "avg_price": 266.67,
+                "avg_sqft": 9531.37,
+                "count": 3
+            },
+            "5": {
+                "avg_price": 194.0,
+                "avg_sqft": 9115.75,
+                "count": 3
+            }
+        }
+    },
+    "141": {
+        "overall": {
+            "avg_price": 481.7,
+            "avg_sqft": 36078.88,
+            "count": 198
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 334.44,
+                "avg_sqft": 34730.68,
+                "count": 84
+            },
+            "3": {
+                "avg_price": 552.75,
+                "avg_sqft": 35595.67,
+                "count": 61
+            },
+            "1": {
+                "avg_price": 156.22,
+                "avg_sqft": 32412.71,
+                "count": 32
+            },
+            "4": {
+                "avg_price": 1216.94,
+                "avg_sqft": 48131.66,
+                "count": 17
+            },
+            "5": {
+                "avg_price": 1969.75,
+                "avg_sqft": 49865.28,
+                "count": 4
+            }
+        }
+    },
+    "28": {
+        "overall": {
+            "avg_price": 24.95,
+            "avg_sqft": 3452.3,
+            "count": 175
+        },
+        "bhk_map": {
+            "5": {
+                "avg_price": 199.0,
+                "avg_sqft": 6812.74,
+                "count": 2
+            },
+            "3": {
+                "avg_price": 55.49,
+                "avg_sqft": 4134.08,
+                "count": 14
+            },
+            "1": {
+                "avg_price": 18.69,
+                "avg_sqft": 3359.17,
+                "count": 129
+            },
+            "2": {
+                "avg_price": 26.03,
+                "avg_sqft": 3310.57,
+                "count": 30
+            }
+        }
+    },
+    "154": {
+        "overall": {
+            "avg_price": 229.92,
+            "avg_sqft": 23825.37,
+            "count": 431
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 307.12,
+                "avg_sqft": 24163.16,
+                "count": 101
+            },
+            "2": {
+                "avg_price": 211.81,
+                "avg_sqft": 24054.65,
+                "count": 210
+            },
+            "4": {
+                "avg_price": 434.44,
+                "avg_sqft": 26313.85,
+                "count": 16
+            },
+            "1": {
+                "avg_price": 126.62,
+                "avg_sqft": 22186.63,
+                "count": 99
+            },
+            "5": {
+                "avg_price": 765.5,
+                "avg_sqft": 30768.44,
+                "count": 4
+            },
+            "6": {
+                "avg_price": 1050.0,
+                "avg_sqft": 36206.9,
+                "count": 1
+            }
+        }
+    },
+    "15": {
+        "overall": {
+            "avg_price": 29.42,
+            "avg_sqft": 4425.1,
+            "count": 502
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 25.19,
+                "avg_sqft": 4379.69,
+                "count": 342
+            },
+            "2": {
+                "avg_price": 36.89,
+                "avg_sqft": 4493.68,
+                "count": 143
+            },
+            "3": {
+                "avg_price": 51.77,
+                "avg_sqft": 4761.65,
+                "count": 17
+            }
+        }
+    },
+    "51": {
+        "overall": {
+            "avg_price": 231.4,
+            "avg_sqft": 30472.13,
+            "count": 5
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 254.75,
+                "avg_sqft": 31176.33,
+                "count": 4
+            },
+            "1": {
+                "avg_price": 138.0,
+                "avg_sqft": 27655.31,
+                "count": 1
+            }
+        }
+    },
+    "16": {
+        "overall": {
+            "avg_price": 25.51,
+            "avg_sqft": 4056.26,
+            "count": 319
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 22.11,
+                "avg_sqft": 4022.4,
+                "count": 259
+            },
+            "2": {
+                "avg_price": 32.97,
+                "avg_sqft": 4183.06,
+                "count": 52
+            },
+            "3": {
+                "avg_price": 82.29,
+                "avg_sqft": 4184.92,
+                "count": 7
+            },
+            "4": {
+                "avg_price": 120.0,
+                "avg_sqft": 5333.33,
+                "count": 1
+            }
+        }
+    },
+    "93": {
+        "overall": {
+            "avg_price": 45.29,
+            "avg_sqft": 5763.49,
+            "count": 72
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 48.92,
+                "avg_sqft": 5419.89,
+                "count": 17
+            },
+            "1": {
+                "avg_price": 28.89,
+                "avg_sqft": 5620.84,
+                "count": 45
+            },
+            "3": {
+                "avg_price": 95.7,
+                "avg_sqft": 6620.02,
+                "count": 7
+            },
+            "4": {
+                "avg_price": 153.0,
+                "avg_sqft": 7851.63,
+                "count": 3
+            }
+        }
+    },
+    "34": {
+        "overall": {
+            "avg_price": 227.72,
+            "avg_sqft": 22395.77,
+            "count": 1462
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 327.87,
+                "avg_sqft": 24674.54,
+                "count": 353
+            },
+            "1": {
+                "avg_price": 100.09,
+                "avg_sqft": 19661.4,
+                "count": 364
+            },
+            "2": {
+                "avg_price": 181.81,
+                "avg_sqft": 22018.01,
+                "count": 640
+            },
+            "4": {
+                "avg_price": 523.95,
+                "avg_sqft": 25794.49,
+                "count": 92
+            },
+            "10": {
+                "avg_price": 3500.0,
+                "avg_sqft": 53846.15,
+                "count": 1
+            },
+            "8": {
+                "avg_price": 2700.0,
+                "avg_sqft": 50000.0,
+                "count": 1
+            },
+            "5": {
+                "avg_price": 878.38,
+                "avg_sqft": 27274.4,
+                "count": 8
+            },
+            "6": {
+                "avg_price": 986.33,
+                "avg_sqft": 29699.09,
+                "count": 3
+            }
+        }
+    },
+    "68": {
+        "overall": {
+            "avg_price": 159.78,
+            "avg_sqft": 19681.91,
+            "count": 441
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 165.47,
+                "avg_sqft": 20440.45,
+                "count": 190
+            },
+            "3": {
+                "avg_price": 259.88,
+                "avg_sqft": 21258.87,
+                "count": 84
+            },
+            "1": {
+                "avg_price": 94.43,
+                "avg_sqft": 17759.22,
+                "count": 162
+            },
+            "4": {
+                "avg_price": 379.2,
+                "avg_sqft": 26659.79,
+                "count": 5
+            }
+        }
+    },
+    "205": {
+        "overall": {
+            "avg_price": 50.06,
+            "avg_sqft": 7168.76,
+            "count": 591
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 35.91,
+                "avg_sqft": 6843.39,
+                "count": 336
+            },
+            "2": {
+                "avg_price": 60.25,
+                "avg_sqft": 7595.03,
+                "count": 195
+            },
+            "3": {
+                "avg_price": 95.12,
+                "avg_sqft": 7661.65,
+                "count": 54
+            },
+            "4": {
+                "avg_price": 105.33,
+                "avg_sqft": 7100.08,
+                "count": 6
+            }
+        }
+    },
+    "72": {
+        "overall": {
+            "avg_price": 73.9,
+            "avg_sqft": 8055.42,
+            "count": 218
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 84.47,
+                "avg_sqft": 8163.14,
+                "count": 116
+            },
+            "1": {
+                "avg_price": 51.72,
+                "avg_sqft": 7942.0,
+                "count": 88
+            },
+            "4": {
+                "avg_price": 206.67,
+                "avg_sqft": 8539.98,
+                "count": 3
+            },
+            "3": {
+                "avg_price": 103.73,
+                "avg_sqft": 7694.69,
+                "count": 11
+            }
+        }
+    },
+    "147": {
+        "overall": {
+            "avg_price": 304.86,
+            "avg_sqft": 25093.65,
+            "count": 1418
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 122.83,
+                "avg_sqft": 22694.89,
+                "count": 206
+            },
+            "3": {
+                "avg_price": 384.11,
+                "avg_sqft": 26812.69,
+                "count": 427
+            },
+            "2": {
+                "avg_price": 224.36,
+                "avg_sqft": 23794.84,
+                "count": 680
+            },
+            "4": {
+                "avg_price": 717.83,
+                "avg_sqft": 30302.29,
+                "count": 84
+            },
+            "5": {
+                "avg_price": 1411.78,
+                "avg_sqft": 34355.63,
+                "count": 18
+            },
+            "6": {
+                "avg_price": 1566.67,
+                "avg_sqft": 38115.53,
+                "count": 3
+            }
+        }
+    },
+    "55": {
+        "overall": {
+            "avg_price": 156.98,
+            "avg_sqft": 13708.93,
+            "count": 368
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 239.57,
+                "avg_sqft": 14746.37,
+                "count": 68
+            },
+            "2": {
+                "avg_price": 149.9,
+                "avg_sqft": 13703.81,
+                "count": 187
+            },
+            "4": {
+                "avg_price": 333.0,
+                "avg_sqft": 14941.11,
+                "count": 15
+            },
+            "1": {
+                "avg_price": 80.93,
+                "avg_sqft": 12694.9,
+                "count": 97
+            },
+            "5": {
+                "avg_price": 600.0,
+                "avg_sqft": 24000.0,
+                "count": 1
+            }
+        }
+    },
+    "194": {
+        "overall": {
+            "avg_price": 198.17,
+            "avg_sqft": 14256.54,
+            "count": 14868
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 121.83,
+                "avg_sqft": 14035.79,
+                "count": 5582
+            },
+            "1": {
+                "avg_price": 65.2,
+                "avg_sqft": 12583.08,
+                "count": 2353
+            },
+            "4": {
+                "avg_price": 413.89,
+                "avg_sqft": 16125.93,
+                "count": 2000
+            },
+            "3": {
+                "avg_price": 223.11,
+                "avg_sqft": 14457.92,
+                "count": 4576
+            },
+            "5": {
+                "avg_price": 741.82,
+                "avg_sqft": 15414.34,
+                "count": 299
+            },
+            "6": {
+                "avg_price": 732.07,
+                "avg_sqft": 17073.35,
+                "count": 58
+            }
+        }
+    },
+    "213": {
+        "overall": {
+            "avg_price": 136.57,
+            "avg_sqft": 18899.5,
+            "count": 979
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 136.51,
+                "avg_sqft": 19008.54,
+                "count": 427
+            },
+            "1": {
+                "avg_price": 83.78,
+                "avg_sqft": 17356.98,
+                "count": 467
+            },
+            "4": {
+                "avg_price": 626.31,
+                "avg_sqft": 28647.75,
+                "count": 29
+            },
+            "3": {
+                "avg_price": 303.19,
+                "avg_sqft": 25682.4,
+                "count": 54
+            },
+            "5": {
+                "avg_price": 877.5,
+                "avg_sqft": 31308.5,
+                "count": 2
+            }
+        }
+    },
+    "26": {
+        "overall": {
+            "avg_price": 47.99,
+            "avg_sqft": 6539.06,
+            "count": 618
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 32.14,
+                "avg_sqft": 6050.89,
+                "count": 332
+            },
+            "2": {
+                "avg_price": 54.83,
+                "avg_sqft": 6905.87,
+                "count": 226
+            },
+            "3": {
+                "avg_price": 103.31,
+                "avg_sqft": 7782.14,
+                "count": 59
+            },
+            "4": {
+                "avg_price": 501.0,
+                "avg_sqft": 12370.37,
+                "count": 1
+            }
+        }
+    },
+    "2": {
+        "overall": {
+            "avg_price": 126.08,
+            "avg_sqft": 13957.09,
+            "count": 293
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 139.02,
+                "avg_sqft": 14444.0,
+                "count": 123
+            },
+            "1": {
+                "avg_price": 73.22,
+                "avg_sqft": 11679.79,
+                "count": 127
+            },
+            "3": {
+                "avg_price": 250.21,
+                "avg_sqft": 20401.56,
+                "count": 38
+            },
+            "4": {
+                "avg_price": 207.0,
+                "avg_sqft": 10844.26,
+                "count": 5
+            }
+        }
+    },
+    "5": {
+        "overall": {
+            "avg_price": 34.3,
+            "avg_sqft": 4694.8,
+            "count": 309
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 39.66,
+                "avg_sqft": 4700.14,
+                "count": 118
+            },
+            "1": {
+                "avg_price": 27.46,
+                "avg_sqft": 4643.37,
+                "count": 173
+            },
+            "3": {
+                "avg_price": 64.82,
+                "avg_sqft": 5154.05,
+                "count": 18
+            }
+        }
+    },
+    "30": {
+        "overall": {
+            "avg_price": 175.97,
+            "avg_sqft": 20457.68,
+            "count": 1041
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 168.18,
+                "avg_sqft": 20532.99,
+                "count": 463
+            },
+            "1": {
+                "avg_price": 98.88,
+                "avg_sqft": 19129.78,
+                "count": 350
+            },
+            "3": {
+                "avg_price": 280.83,
+                "avg_sqft": 22322.64,
+                "count": 185
+            },
+            "4": {
+                "avg_price": 418.21,
+                "avg_sqft": 23153.69,
+                "count": 34
+            },
+            "5": {
+                "avg_price": 329.0,
+                "avg_sqft": 15853.93,
+                "count": 5
+            },
+            "6": {
+                "avg_price": 723.0,
+                "avg_sqft": 24516.46,
+                "count": 4
+            }
+        }
+    },
+    "217": {
+        "overall": {
+            "avg_price": 41.5,
+            "avg_sqft": 6513.02,
+            "count": 1557
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 33.21,
+                "avg_sqft": 6388.67,
+                "count": 809
+            },
+            "2": {
+                "avg_price": 45.86,
+                "avg_sqft": 6425.65,
+                "count": 606
+            },
+            "3": {
+                "avg_price": 68.17,
+                "avg_sqft": 7590.72,
+                "count": 138
+            },
+            "5": {
+                "avg_price": 139.0,
+                "avg_sqft": 6473.92,
+                "count": 3
+            },
+            "4": {
+                "avg_price": 129.0,
+                "avg_sqft": 11446.32,
+                "count": 1
+            }
+        }
+    },
+    "91": {
+        "overall": {
+            "avg_price": 136.56,
+            "avg_sqft": 11094.69,
+            "count": 2362
+        },
+        "bhk_map": {
+            "4": {
+                "avg_price": 331.35,
+                "avg_sqft": 13180.28,
+                "count": 81
+            },
+            "2": {
+                "avg_price": 113.96,
+                "avg_sqft": 10657.06,
+                "count": 1269
+            },
+            "5": {
+                "avg_price": 338.0,
+                "avg_sqft": 12680.2,
+                "count": 3
+            },
+            "3": {
+                "avg_price": 182.55,
+                "avg_sqft": 12097.07,
+                "count": 690
+            },
+            "6": {
+                "avg_price": 587.8,
+                "avg_sqft": 16023.92,
+                "count": 5
+            },
+            "1": {
+                "avg_price": 59.72,
+                "avg_sqft": 9958.67,
+                "count": 313
+            },
+            "8": {
+                "avg_price": 2500.0,
+                "avg_sqft": 32051.28,
+                "count": 1
+            }
+        }
+    },
+    "198": {
+        "overall": {
+            "avg_price": 79.37,
+            "avg_sqft": 8780.56,
+            "count": 1416
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 48.07,
+                "avg_sqft": 8091.13,
+                "count": 622
+            },
+            "3": {
+                "avg_price": 150.48,
+                "avg_sqft": 10834.12,
+                "count": 136
+            },
+            "2": {
+                "avg_price": 92.81,
+                "avg_sqft": 9018.76,
+                "count": 647
+            },
+            "4": {
+                "avg_price": 145.06,
+                "avg_sqft": 8020.26,
+                "count": 9
+            },
+            "6": {
+                "avg_price": 340.0,
+                "avg_sqft": 8994.71,
+                "count": 1
+            },
+            "5": {
+                "avg_price": 325.0,
+                "avg_sqft": 10833.33,
+                "count": 1
+            }
+        }
+    },
+    "78": {
+        "overall": {
+            "avg_price": 75.48,
+            "avg_sqft": 8189.86,
+            "count": 619
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 55.55,
+                "avg_sqft": 8460.93,
+                "count": 259
+            },
+            "2": {
+                "avg_price": 86.55,
+                "avg_sqft": 7940.16,
+                "count": 331
+            },
+            "3": {
+                "avg_price": 126.61,
+                "avg_sqft": 8614.15,
+                "count": 28
+            },
+            "4": {
+                "avg_price": 140.0,
+                "avg_sqft": 8750.0,
+                "count": 1
+            }
+        }
+    },
+    "67": {
+        "overall": {
+            "avg_price": 162.61,
+            "avg_sqft": 21529.88,
+            "count": 166
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 156.64,
+                "avg_sqft": 20493.6,
+                "count": 77
+            },
+            "1": {
+                "avg_price": 103.02,
+                "avg_sqft": 21293.84,
+                "count": 64
+            },
+            "5": {
+                "avg_price": 810.0,
+                "avg_sqft": 33750.0,
+                "count": 1
+            },
+            "3": {
+                "avg_price": 301.3,
+                "avg_sqft": 24652.95,
+                "count": 23
+            },
+            "4": {
+                "avg_price": 599.0,
+                "avg_sqft": 32378.38,
+                "count": 1
+            }
+        }
+    },
+    "120": {
+        "overall": {
+            "avg_price": 209.29,
+            "avg_sqft": 20280.24,
+            "count": 1526
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 260.59,
+                "avg_sqft": 20863.7,
+                "count": 526
+            },
+            "2": {
+                "avg_price": 170.52,
+                "avg_sqft": 20196.92,
+                "count": 709
+            },
+            "1": {
+                "avg_price": 101.09,
+                "avg_sqft": 19363.82,
+                "count": 194
+            },
+            "4": {
+                "avg_price": 374.88,
+                "avg_sqft": 18780.04,
+                "count": 75
+            },
+            "5": {
+                "avg_price": 406.85,
+                "avg_sqft": 18005.83,
+                "count": 13
+            },
+            "6": {
+                "avg_price": 2640.0,
+                "avg_sqft": 65185.19,
+                "count": 1
+            },
+            "7": {
+                "avg_price": 719.88,
+                "avg_sqft": 23672.52,
+                "count": 8
+            }
+        }
+    },
+    "136": {
+        "overall": {
+            "avg_price": 22.7,
+            "avg_sqft": 4979.4,
+            "count": 163
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 18.26,
+                "avg_sqft": 4804.8,
+                "count": 106
+            },
+            "2": {
+                "avg_price": 30.96,
+                "avg_sqft": 5304.08,
+                "count": 57
+            }
+        }
+    },
+    "62": {
+        "overall": {
+            "avg_price": 215.7,
+            "avg_sqft": 21394.59,
+            "count": 862
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 288.85,
+                "avg_sqft": 22239.21,
+                "count": 230
+            },
+            "2": {
+                "avg_price": 182.9,
+                "avg_sqft": 21691.94,
+                "count": 380
+            },
+            "1": {
+                "avg_price": 103.86,
+                "avg_sqft": 19294.2,
+                "count": 194
+            },
+            "4": {
+                "avg_price": 467.28,
+                "avg_sqft": 22701.82,
+                "count": 47
+            },
+            "5": {
+                "avg_price": 663.5,
+                "avg_sqft": 26038.09,
+                "count": 8
+            },
+            "6": {
+                "avg_price": 858.33,
+                "avg_sqft": 21938.62,
+                "count": 3
+            }
+        }
+    },
+    "190": {
+        "overall": {
+            "avg_price": 46.52,
+            "avg_sqft": 7105.81,
+            "count": 882
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 58.99,
+                "avg_sqft": 7391.76,
+                "count": 372
+            },
+            "1": {
+                "avg_price": 36.17,
+                "avg_sqft": 6884.7,
+                "count": 490
+            },
+            "3": {
+                "avg_price": 67.48,
+                "avg_sqft": 7347.81,
+                "count": 17
+            },
+            "4": {
+                "avg_price": 71.0,
+                "avg_sqft": 6393.04,
+                "count": 3
+            }
+        }
+    },
+    "151": {
+        "overall": {
+            "avg_price": 28.38,
+            "avg_sqft": 7192.15,
+            "count": 63
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 26.1,
+                "avg_sqft": 7124.73,
+                "count": 52
+            },
+            "2": {
+                "avg_price": 39.16,
+                "avg_sqft": 7510.86,
+                "count": 11
+            }
+        }
+    },
+    "56": {
+        "overall": {
+            "avg_price": 172.1,
+            "avg_sqft": 22026.73,
+            "count": 905
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 102.41,
+                "avg_sqft": 20585.64,
+                "count": 272
+            },
+            "2": {
+                "avg_price": 166.53,
+                "avg_sqft": 22040.95,
+                "count": 479
+            },
+            "3": {
+                "avg_price": 275.43,
+                "avg_sqft": 24122.92,
+                "count": 130
+            },
+            "4": {
+                "avg_price": 525.36,
+                "avg_sqft": 27503.34,
+                "count": 22
+            },
+            "5": {
+                "avg_price": 382.0,
+                "avg_sqft": 18115.73,
+                "count": 2
+            }
+        }
+    },
+    "197": {
+        "overall": {
+            "avg_price": 73.6,
+            "avg_sqft": 7313.51,
+            "count": 39
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 69.85,
+                "avg_sqft": 7379.75,
+                "count": 19
+            },
+            "1": {
+                "avg_price": 36.26,
+                "avg_sqft": 6207.11,
+                "count": 12
+            },
+            "3": {
+                "avg_price": 138.5,
+                "avg_sqft": 8815.78,
+                "count": 8
+            }
+        }
+    },
+    "47": {
+        "overall": {
+            "avg_price": 56.04,
+            "avg_sqft": 7382.72,
+            "count": 3041
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 40.31,
+                "avg_sqft": 7015.53,
+                "count": 1345
+            },
+            "2": {
+                "avg_price": 59.94,
+                "avg_sqft": 7678.42,
+                "count": 1309
+            },
+            "4": {
+                "avg_price": 315.5,
+                "avg_sqft": 9899.03,
+                "count": 11
+            },
+            "3": {
+                "avg_price": 88.3,
+                "avg_sqft": 7582.06,
+                "count": 371
+            },
+            "5": {
+                "avg_price": 303.2,
+                "avg_sqft": 8416.73,
+                "count": 5
+            }
+        }
+    },
+    "86": {
+        "overall": {
+            "avg_price": 33.34,
+            "avg_sqft": 4702.05,
+            "count": 6
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 55.0,
+                "avg_sqft": 5789.47,
+                "count": 1
+            },
+            "1": {
+                "avg_price": 29.0,
+                "avg_sqft": 4484.57,
+                "count": 5
+            }
+        }
+    },
+    "125": {
+        "overall": {
+            "avg_price": 31.49,
+            "avg_sqft": 5509.08,
+            "count": 327
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 26.55,
+                "avg_sqft": 5474.08,
+                "count": 255
+            },
+            "4": {
+                "avg_price": 180.0,
+                "avg_sqft": 12080.54,
+                "count": 1
+            },
+            "2": {
+                "avg_price": 45.01,
+                "avg_sqft": 5572.16,
+                "count": 66
+            },
+            "3": {
+                "avg_price": 75.4,
+                "avg_sqft": 5146.93,
+                "count": 5
+            }
+        }
+    },
+    "61": {
+        "overall": {
+            "avg_price": 207.0,
+            "avg_sqft": 18699.3,
+            "count": 620
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 78.35,
+                "avg_sqft": 15271.78,
+                "count": 151
+            },
+            "2": {
+                "avg_price": 165.19,
+                "avg_sqft": 18337.57,
+                "count": 277
+            },
+            "3": {
+                "avg_price": 297.95,
+                "avg_sqft": 21072.85,
+                "count": 150
+            },
+            "5": {
+                "avg_price": 717.0,
+                "avg_sqft": 21833.64,
+                "count": 5
+            },
+            "6": {
+                "avg_price": 1200.0,
+                "avg_sqft": 34285.71,
+                "count": 1
+            },
+            "4": {
+                "avg_price": 590.89,
+                "avg_sqft": 25101.13,
+                "count": 36
+            }
+        }
+    },
+    "79": {
+        "overall": {
+            "avg_price": 174.55,
+            "avg_sqft": 19036.86,
+            "count": 2568
+        },
+        "bhk_map": {
+            "4": {
+                "avg_price": 464.37,
+                "avg_sqft": 22440.95,
+                "count": 90
+            },
+            "2": {
+                "avg_price": 163.96,
+                "avg_sqft": 19291.76,
+                "count": 1151
+            },
+            "1": {
+                "avg_price": 91.77,
+                "avg_sqft": 17247.76,
+                "count": 803
+            },
+            "3": {
+                "avg_price": 267.48,
+                "avg_sqft": 20569.33,
+                "count": 513
+            },
+            "5": {
+                "avg_price": 643.75,
+                "avg_sqft": 22987.61,
+                "count": 8
+            },
+            "6": {
+                "avg_price": 562.0,
+                "avg_sqft": 25407.69,
+                "count": 3
+            }
+        }
+    },
+    "96": {
+        "overall": {
+            "avg_price": 119.7,
+            "avg_sqft": 16876.39,
+            "count": 341
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 140.09,
+                "avg_sqft": 17582.05,
+                "count": 142
+            },
+            "1": {
+                "avg_price": 88.28,
+                "avg_sqft": 16412.82,
+                "count": 172
+            },
+            "3": {
+                "avg_price": 208.25,
+                "avg_sqft": 16929.85,
+                "count": 24
+            },
+            "4": {
+                "avg_price": 248.33,
+                "avg_sqft": 9625.71,
+                "count": 3
+            }
+        }
+    },
+    "7": {
+        "overall": {
+            "avg_price": 203.79,
+            "avg_sqft": 21862.67,
+            "count": 1084
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 282.96,
+                "avg_sqft": 23890.88,
+                "count": 273
+            },
+            "2": {
+                "avg_price": 190.92,
+                "avg_sqft": 21767.36,
+                "count": 527
+            },
+            "1": {
+                "avg_price": 114.44,
+                "avg_sqft": 19818.69,
+                "count": 252
+            },
+            "4": {
+                "avg_price": 419.89,
+                "avg_sqft": 22668.5,
+                "count": 27
+            },
+            "8": {
+                "avg_price": 985.0,
+                "avg_sqft": 26621.62,
+                "count": 1
+            },
+            "5": {
+                "avg_price": 471.25,
+                "avg_sqft": 18135.89,
+                "count": 4
+            }
+        }
+    },
+    "41": {
+        "overall": {
+            "avg_price": 116.36,
+            "avg_sqft": 15825.06,
+            "count": 750
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 77.8,
+                "avg_sqft": 14390.53,
+                "count": 331
+            },
+            "2": {
+                "avg_price": 127.46,
+                "avg_sqft": 16051.53,
+                "count": 350
+            },
+            "3": {
+                "avg_price": 240.89,
+                "avg_sqft": 21723.83,
+                "count": 64
+            },
+            "4": {
+                "avg_price": 297.2,
+                "avg_sqft": 19433.51,
+                "count": 5
+            }
+        }
+    },
+    "83": {
+        "overall": {
+            "avg_price": 53.55,
+            "avg_sqft": 7575.8,
+            "count": 196
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 41.75,
+                "avg_sqft": 7156.13,
+                "count": 125
+            },
+            "2": {
+                "avg_price": 71.7,
+                "avg_sqft": 7865.29,
+                "count": 64
+            },
+            "3": {
+                "avg_price": 98.48,
+                "avg_sqft": 12423.25,
+                "count": 7
+            }
+        }
+    },
+    "104": {
+        "overall": {
+            "avg_price": 408.58,
+            "avg_sqft": 35380.58,
+            "count": 59
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 123.76,
+                "avg_sqft": 26672.62,
+                "count": 15
+            },
+            "2": {
+                "avg_price": 290.68,
+                "avg_sqft": 33075.19,
+                "count": 22
+            },
+            "3": {
+                "avg_price": 583.43,
+                "avg_sqft": 40404.35,
+                "count": 14
+            },
+            "4": {
+                "avg_price": 862.43,
+                "avg_sqft": 47715.13,
+                "count": 7
+            },
+            "5": {
+                "avg_price": 1650.0,
+                "avg_sqft": 60043.67,
+                "count": 1
+            }
+        }
+    },
+    "208": {
+        "overall": {
+            "avg_price": 222.08,
+            "avg_sqft": 17623.57,
+            "count": 96
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 268.59,
+                "avg_sqft": 19171.97,
+                "count": 34
+            },
+            "2": {
+                "avg_price": 194.7,
+                "avg_sqft": 18048.38,
+                "count": 43
+            },
+            "4": {
+                "avg_price": 271.33,
+                "avg_sqft": 11976.69,
+                "count": 6
+            },
+            "6": {
+                "avg_price": 575.0,
+                "avg_sqft": 19491.53,
+                "count": 1
+            },
+            "1": {
+                "avg_price": 86.5,
+                "avg_sqft": 15323.7,
+                "count": 10
+            },
+            "5": {
+                "avg_price": 374.0,
+                "avg_sqft": 9673.33,
+                "count": 2
+            }
+        }
+    },
+    "108": {
+        "overall": {
+            "avg_price": 199.56,
+            "avg_sqft": 19736.94,
+            "count": 1301
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 190.45,
+                "avg_sqft": 19993.59,
+                "count": 561
+            },
+            "3": {
+                "avg_price": 258.85,
+                "avg_sqft": 21393.7,
+                "count": 287
+            },
+            "1": {
+                "avg_price": 112.07,
+                "avg_sqft": 17020.13,
+                "count": 372
+            },
+            "6": {
+                "avg_price": 1181.0,
+                "avg_sqft": 35880.95,
+                "count": 2
+            },
+            "4": {
+                "avg_price": 432.33,
+                "avg_sqft": 24117.17,
+                "count": 75
+            },
+            "5": {
+                "avg_price": 504.5,
+                "avg_sqft": 27331.01,
+                "count": 4
+            }
+        }
+    },
+    "59": {
+        "overall": {
+            "avg_price": 255.72,
+            "avg_sqft": 24726.25,
+            "count": 39
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 214.95,
+                "avg_sqft": 24453.35,
+                "count": 22
+            },
+            "1": {
+                "avg_price": 127.71,
+                "avg_sqft": 22997.76,
+                "count": 7
+            },
+            "3": {
+                "avg_price": 465.62,
+                "avg_sqft": 28336.9,
+                "count": 8
+            },
+            "4": {
+                "avg_price": 225.0,
+                "avg_sqft": 18750.0,
+                "count": 1
+            },
+            "5": {
+                "avg_price": 400.0,
+                "avg_sqft": 19920.32,
+                "count": 1
+            }
+        }
+    },
+    "40": {
+        "overall": {
+            "avg_price": 478.04,
+            "avg_sqft": 38848.78,
+            "count": 97
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 586.11,
+                "avg_sqft": 41848.01,
+                "count": 46
+            },
+            "2": {
+                "avg_price": 351.34,
+                "avg_sqft": 37092.49,
+                "count": 32
+            },
+            "1": {
+                "avg_price": 158.64,
+                "avg_sqft": 31229.54,
+                "count": 14
+            },
+            "6": {
+                "avg_price": 1550.0,
+                "avg_sqft": 52864.94,
+                "count": 1
+            },
+            "4": {
+                "avg_price": 1098.75,
+                "avg_sqft": 41571.23,
+                "count": 4
+            }
+        }
+    },
+    "20": {
+        "overall": {
+            "avg_price": 790.1,
+            "avg_sqft": 45575.53,
+            "count": 229
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 417.15,
+                "avg_sqft": 43561.54,
+                "count": 72
+            },
+            "3": {
+                "avg_price": 744.56,
+                "avg_sqft": 49387.8,
+                "count": 98
+            },
+            "1": {
+                "avg_price": 203.82,
+                "avg_sqft": 38024.85,
+                "count": 11
+            },
+            "4": {
+                "avg_price": 1486.62,
+                "avg_sqft": 43322.72,
+                "count": 40
+            },
+            "5": {
+                "avg_price": 2004.17,
+                "avg_sqft": 34863.27,
+                "count": 6
+            },
+            "6": {
+                "avg_price": 2100.0,
+                "avg_sqft": 50000.0,
+                "count": 2
+            }
+        }
+    },
+    "80": {
+        "overall": {
+            "avg_price": 171.07,
+            "avg_sqft": 19716.44,
+            "count": 1448
+        },
+        "bhk_map": {
+            "4": {
+                "avg_price": 395.52,
+                "avg_sqft": 22041.4,
+                "count": 29
+            },
+            "1": {
+                "avg_price": 90.2,
+                "avg_sqft": 18528.02,
+                "count": 410
+            },
+            "2": {
+                "avg_price": 162.31,
+                "avg_sqft": 19725.06,
+                "count": 728
+            },
+            "3": {
+                "avg_price": 265.43,
+                "avg_sqft": 21038.82,
+                "count": 271
+            },
+            "9": {
+                "avg_price": 3600.0,
+                "avg_sqft": 51428.57,
+                "count": 1
+            },
+            "6": {
+                "avg_price": 845.0,
+                "avg_sqft": 18402.65,
+                "count": 2
+            },
+            "5": {
+                "avg_price": 553.71,
+                "avg_sqft": 23445.07,
+                "count": 7
+            }
+        }
+    },
+    "76": {
+        "overall": {
+            "avg_price": 64.03,
+            "avg_sqft": 7512.04,
+            "count": 1815
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 42.96,
+                "avg_sqft": 7207.31,
+                "count": 829
+            },
+            "2": {
+                "avg_price": 70.98,
+                "avg_sqft": 7656.73,
+                "count": 737
+            },
+            "3": {
+                "avg_price": 111.65,
+                "avg_sqft": 8171.2,
+                "count": 221
+            },
+            "4": {
+                "avg_price": 129.63,
+                "avg_sqft": 7588.87,
+                "count": 27
+            },
+            "6": {
+                "avg_price": 115.0,
+                "avg_sqft": 5750.0,
+                "count": 1
+            }
+        }
+    },
+    "131": {
+        "overall": {
+            "avg_price": 29.55,
+            "avg_sqft": 3910.5,
+            "count": 254
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 20.26,
+                "avg_sqft": 3748.18,
+                "count": 179
+            },
+            "2": {
+                "avg_price": 37.82,
+                "avg_sqft": 4195.98,
+                "count": 57
+            },
+            "4": {
+                "avg_price": 162.0,
+                "avg_sqft": 6457.18,
+                "count": 4
+            },
+            "3": {
+                "avg_price": 76.82,
+                "avg_sqft": 4095.95,
+                "count": 14
+            }
+        }
+    },
+    "75": {
+        "overall": {
+            "avg_price": 46.88,
+            "avg_sqft": 6614.71,
+            "count": 336
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 55.06,
+                "avg_sqft": 6839.36,
+                "count": 102
+            },
+            "1": {
+                "avg_price": 34.96,
+                "avg_sqft": 6423.35,
+                "count": 206
+            },
+            "3": {
+                "avg_price": 92.61,
+                "avg_sqft": 7152.36,
+                "count": 27
+            },
+            "5": {
+                "avg_price": 432.0,
+                "avg_sqft": 8605.58,
+                "count": 1
+            }
+        }
+    },
+    "84": {
+        "overall": {
+            "avg_price": 23.61,
+            "avg_sqft": 4213.27,
+            "count": 456
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 21.34,
+                "avg_sqft": 4183.03,
+                "count": 357
+            },
+            "2": {
+                "avg_price": 30.95,
+                "avg_sqft": 4298.59,
+                "count": 97
+            },
+            "3": {
+                "avg_price": 74.5,
+                "avg_sqft": 5472.78,
+                "count": 2
+            }
+        }
+    },
+    "57": {
+        "overall": {
+            "avg_price": 202.05,
+            "avg_sqft": 20151.11,
+            "count": 182
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 106.51,
+                "avg_sqft": 19638.73,
+                "count": 49
+            },
+            "3": {
+                "avg_price": 264.61,
+                "avg_sqft": 20384.36,
+                "count": 64
+            },
+            "2": {
+                "avg_price": 195.26,
+                "avg_sqft": 20449.2,
+                "count": 65
+            },
+            "5": {
+                "avg_price": 524.0,
+                "avg_sqft": 19407.41,
+                "count": 2
+            },
+            "4": {
+                "avg_price": 440.0,
+                "avg_sqft": 16296.3,
+                "count": 2
+            }
+        }
+    },
+    "50": {
+        "overall": {
+            "avg_price": 54.47,
+            "avg_sqft": 7110.46,
+            "count": 91
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 35.0,
+                "avg_sqft": 5419.26,
+                "count": 41
+            },
+            "2": {
+                "avg_price": 63.48,
+                "avg_sqft": 8536.12,
+                "count": 44
+            },
+            "6": {
+                "avg_price": 224.0,
+                "avg_sqft": 7225.81,
+                "count": 1
+            },
+            "3": {
+                "avg_price": 101.0,
+                "avg_sqft": 8409.5,
+                "count": 5
+            }
+        }
+    },
+    "119": {
+        "overall": {
+            "avg_price": 198.72,
+            "avg_sqft": 19595.67,
+            "count": 218
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 255.99,
+                "avg_sqft": 19904.17,
+                "count": 79
+            },
+            "1": {
+                "avg_price": 110.0,
+                "avg_sqft": 19113.21,
+                "count": 36
+            },
+            "2": {
+                "avg_price": 179.18,
+                "avg_sqft": 19794.59,
+                "count": 98
+            },
+            "4": {
+                "avg_price": 315.6,
+                "avg_sqft": 14296.16,
+                "count": 5
+            }
+        }
+    },
+    "130": {
+        "overall": {
+            "avg_price": 40.8,
+            "avg_sqft": 5232.96,
+            "count": 5
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 34.66,
+                "avg_sqft": 5266.89,
+                "count": 3
+            },
+            "2": {
+                "avg_price": 50.0,
+                "avg_sqft": 5182.07,
+                "count": 2
+            }
+        }
+    },
+    "6": {
+        "overall": {
+            "avg_price": 34.26,
+            "avg_sqft": 5228.62,
+            "count": 7
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 75.0,
+                "avg_sqft": 7062.15,
+                "count": 1
+            },
+            "1": {
+                "avg_price": 30.28,
+                "avg_sqft": 5407.77,
+                "count": 3
+            },
+            "2": {
+                "avg_price": 24.67,
+                "avg_sqft": 4438.28,
+                "count": 3
+            }
+        }
+    },
+    "1": {
+        "overall": {
+            "avg_price": 552.08,
+            "avg_sqft": 30299.49,
+            "count": 61
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 306.17,
+                "avg_sqft": 25218.76,
+                "count": 23
+            },
+            "3": {
+                "avg_price": 600.45,
+                "avg_sqft": 32833.88,
+                "count": 22
+            },
+            "1": {
+                "avg_price": 181.5,
+                "avg_sqft": 23739.54,
+                "count": 8
+            },
+            "4": {
+                "avg_price": 1496.62,
+                "avg_sqft": 44496.99,
+                "count": 8
+            }
+        }
+    },
+    "134": {
+        "overall": {
+            "avg_price": 131.33,
+            "avg_sqft": 11152.87,
+            "count": 3
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 157.5,
+                "avg_sqft": 12291.67,
+                "count": 2
+            },
+            "2": {
+                "avg_price": 78.99,
+                "avg_sqft": 8875.28,
+                "count": 1
+            }
+        }
+    },
+    "215": {
+        "overall": {
+            "avg_price": 303.29,
+            "avg_sqft": 27404.76,
+            "count": 118
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 238.92,
+                "avg_sqft": 26167.8,
+                "count": 65
+            },
+            "4": {
+                "avg_price": 765.86,
+                "avg_sqft": 33174.15,
+                "count": 7
+            },
+            "1": {
+                "avg_price": 148.53,
+                "avg_sqft": 26559.26,
+                "count": 15
+            },
+            "3": {
+                "avg_price": 366.21,
+                "avg_sqft": 28311.82,
+                "count": 29
+            },
+            "5": {
+                "avg_price": 1188.0,
+                "avg_sqft": 49895.0,
+                "count": 1
+            },
+            "6": {
+                "avg_price": 861.0,
+                "avg_sqft": 31309.09,
+                "count": 1
+            }
+        }
+    },
+    "74": {
+        "overall": {
+            "avg_price": 57.67,
+            "avg_sqft": 9074.45,
+            "count": 15
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 51.67,
+                "avg_sqft": 9031.08,
+                "count": 12
+            },
+            "2": {
+                "avg_price": 81.67,
+                "avg_sqft": 9247.92,
+                "count": 3
+            }
+        }
+    },
+    "88": {
+        "overall": {
+            "avg_price": 622.84,
+            "avg_sqft": 39879.51,
+            "count": 77
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 305.56,
+                "avg_sqft": 31184.87,
+                "count": 18
+            },
+            "1": {
+                "avg_price": 107.17,
+                "avg_sqft": 23755.15,
+                "count": 6
+            },
+            "3": {
+                "avg_price": 555.45,
+                "avg_sqft": 41756.06,
+                "count": 40
+            },
+            "4": {
+                "avg_price": 1261.5,
+                "avg_sqft": 54530.1,
+                "count": 8
+            },
+            "5": {
+                "avg_price": 1901.2,
+                "avg_sqft": 52076.08,
+                "count": 5
+            }
+        }
+    },
+    "155": {
+        "overall": {
+            "avg_price": 739.66,
+            "avg_sqft": 40699.08,
+            "count": 135
+        },
+        "bhk_map": {
+            "5": {
+                "avg_price": 1455.0,
+                "avg_sqft": 53508.62,
+                "count": 2
+            },
+            "1": {
+                "avg_price": 201.19,
+                "avg_sqft": 28737.83,
+                "count": 16
+            },
+            "4": {
+                "avg_price": 993.23,
+                "avg_sqft": 41910.93,
+                "count": 30
+            },
+            "2": {
+                "avg_price": 337.81,
+                "avg_sqft": 37435.05,
+                "count": 29
+            },
+            "3": {
+                "avg_price": 915.91,
+                "avg_sqft": 44639.78,
+                "count": 56
+            },
+            "6": {
+                "avg_price": 1190.0,
+                "avg_sqft": 46850.39,
+                "count": 1
+            },
+            "8": {
+                "avg_price": 1650.0,
+                "avg_sqft": 37931.03,
+                "count": 1
+            }
+        }
+    },
+    "132": {
+        "overall": {
+            "avg_price": 320.74,
+            "avg_sqft": 21764.59,
+            "count": 220
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 182.95,
+                "avg_sqft": 15509.54,
+                "count": 62
+            },
+            "5": {
+                "avg_price": 555.0,
+                "avg_sqft": 18369.05,
+                "count": 5
+            },
+            "3": {
+                "avg_price": 410.36,
+                "avg_sqft": 27510.24,
+                "count": 113
+            },
+            "1": {
+                "avg_price": 73.79,
+                "avg_sqft": 13870.85,
+                "count": 29
+            },
+            "4": {
+                "avg_price": 698.5,
+                "avg_sqft": 20320.81,
+                "count": 10
+            },
+            "7": {
+                "avg_price": 950.0,
+                "avg_sqft": 20652.17,
+                "count": 1
+            }
+        }
+    },
+    "81": {
+        "overall": {
+            "avg_price": 178.16,
+            "avg_sqft": 20576.95,
+            "count": 1332
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 167.78,
+                "avg_sqft": 20570.85,
+                "count": 717
+            },
+            "1": {
+                "avg_price": 111.72,
+                "avg_sqft": 20883.99,
+                "count": 291
+            },
+            "3": {
+                "avg_price": 248.09,
+                "avg_sqft": 20330.64,
+                "count": 309
+            },
+            "4": {
+                "avg_price": 467.25,
+                "avg_sqft": 20318.34,
+                "count": 12
+            },
+            "5": {
+                "avg_price": 746.33,
+                "avg_sqft": 18658.33,
+                "count": 3
+            }
+        }
+    },
+    "204": {
+        "overall": {
+            "avg_price": 26.63,
+            "avg_sqft": 5380.85,
+            "count": 13
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 25.74,
+                "avg_sqft": 5770.04,
+                "count": 11
+            },
+            "2": {
+                "avg_price": 31.5,
+                "avg_sqft": 3240.35,
+                "count": 2
+            }
+        }
+    },
+    "24": {
+        "overall": {
+            "avg_price": 87.5,
+            "avg_sqft": 10947.77,
+            "count": 678
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 64.97,
+                "avg_sqft": 10456.24,
+                "count": 366
+            },
+            "2": {
+                "avg_price": 100.94,
+                "avg_sqft": 11087.44,
+                "count": 240
+            },
+            "3": {
+                "avg_price": 155.14,
+                "avg_sqft": 12867.52,
+                "count": 69
+            },
+            "4": {
+                "avg_price": 203.67,
+                "avg_sqft": 15586.87,
+                "count": 3
+            }
+        }
+    },
+    "157": {
+        "overall": {
+            "avg_price": 247.87,
+            "avg_sqft": 20014.28,
+            "count": 349
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 188.03,
+                "avg_sqft": 19670.57,
+                "count": 150
+            },
+            "1": {
+                "avg_price": 81.81,
+                "avg_sqft": 11716.13,
+                "count": 47
+            },
+            "3": {
+                "avg_price": 336.3,
+                "avg_sqft": 23203.82,
+                "count": 138
+            },
+            "4": {
+                "avg_price": 503.89,
+                "avg_sqft": 19831.84,
+                "count": 9
+            },
+            "6": {
+                "avg_price": 671.67,
+                "avg_sqft": 19560.44,
+                "count": 3
+            },
+            "5": {
+                "avg_price": 750.0,
+                "avg_sqft": 22223.44,
+                "count": 2
+            }
+        }
+    },
+    "185": {
+        "overall": {
+            "avg_price": 284.29,
+            "avg_sqft": 32707.22,
+            "count": 56
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 124.12,
+                "avg_sqft": 25835.49,
+                "count": 8
+            },
+            "3": {
+                "avg_price": 391.53,
+                "avg_sqft": 30052.41,
+                "count": 15
+            },
+            "2": {
+                "avg_price": 274.36,
+                "avg_sqft": 35579.83,
+                "count": 33
+            }
+        }
+    },
+    "4": {
+        "overall": {
+            "avg_price": 34.03,
+            "avg_sqft": 4552.57,
+            "count": 620
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 28.81,
+                "avg_sqft": 4487.29,
+                "count": 394
+            },
+            "2": {
+                "avg_price": 41.81,
+                "avg_sqft": 4652.84,
+                "count": 213
+            },
+            "4": {
+                "avg_price": 42.0,
+                "avg_sqft": 3996.01,
+                "count": 2
+            },
+            "3": {
+                "avg_price": 68.58,
+                "avg_sqft": 5050.3,
+                "count": 11
+            }
+        }
+    },
+    "133": {
+        "overall": {
+            "avg_price": 50.63,
+            "avg_sqft": 7022.42,
+            "count": 27
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 52.56,
+                "avg_sqft": 6220.67,
+                "count": 8
+            },
+            "3": {
+                "avg_price": 66.94,
+                "avg_sqft": 5615.1,
+                "count": 8
+            },
+            "1": {
+                "avg_price": 37.36,
+                "avg_sqft": 8629.03,
+                "count": 11
+            }
+        }
+    },
+    "148": {
+        "overall": {
+            "avg_price": 949.81,
+            "avg_sqft": 44119.1,
+            "count": 159
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 790.4,
+                "avg_sqft": 44610.67,
+                "count": 45
+            },
+            "5": {
+                "avg_price": 2404.33,
+                "avg_sqft": 60400.65,
+                "count": 12
+            },
+            "7": {
+                "avg_price": 4037.5,
+                "avg_sqft": 51612.9,
+                "count": 2
+            },
+            "2": {
+                "avg_price": 401.06,
+                "avg_sqft": 33592.61,
+                "count": 34
+            },
+            "4": {
+                "avg_price": 1276.1,
+                "avg_sqft": 50390.3,
+                "count": 42
+            },
+            "1": {
+                "avg_price": 176.95,
+                "avg_sqft": 36718.55,
+                "count": 22
+            },
+            "6": {
+                "avg_price": 3300.0,
+                "avg_sqft": 58407.08,
+                "count": 1
+            },
+            "10": {
+                "avg_price": 4100.0,
+                "avg_sqft": 54666.67,
+                "count": 1
+            }
+        }
+    },
+    "113": {
+        "overall": {
+            "avg_price": 406.15,
+            "avg_sqft": 31896.21,
+            "count": 86
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 554.48,
+                "avg_sqft": 36275.74,
+                "count": 31
+            },
+            "1": {
+                "avg_price": 152.97,
+                "avg_sqft": 22646.25,
+                "count": 9
+            },
+            "2": {
+                "avg_price": 297.42,
+                "avg_sqft": 31499.81,
+                "count": 38
+            },
+            "4": {
+                "avg_price": 674.67,
+                "avg_sqft": 32078.96,
+                "count": 6
+            },
+            "5": {
+                "avg_price": 506.5,
+                "avg_sqft": 12621.48,
+                "count": 2
+            }
+        }
+    },
+    "100": {
+        "overall": {
+            "avg_price": 813.95,
+            "avg_sqft": 40836.75,
+            "count": 328
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 745.05,
+                "avg_sqft": 41780.6,
+                "count": 117
+            },
+            "1": {
+                "avg_price": 149.58,
+                "avg_sqft": 32269.15,
+                "count": 26
+            },
+            "2": {
+                "avg_price": 370.71,
+                "avg_sqft": 36584.5,
+                "count": 95
+            },
+            "5": {
+                "avg_price": 2513.92,
+                "avg_sqft": 49839.03,
+                "count": 25
+            },
+            "4": {
+                "avg_price": 1172.93,
+                "avg_sqft": 45808.33,
+                "count": 61
+            },
+            "6": {
+                "avg_price": 1600.0,
+                "avg_sqft": 37938.66,
+                "count": 3
+            },
+            "7": {
+                "avg_price": 1500.0,
+                "avg_sqft": 37500.0,
+                "count": 1
+            }
+        }
+    },
+    "196": {
+        "overall": {
+            "avg_price": 32.37,
+            "avg_sqft": 4475.68,
+            "count": 112
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 39.62,
+                "avg_sqft": 4515.63,
+                "count": 36
+            },
+            "1": {
+                "avg_price": 28.59,
+                "avg_sqft": 4455.58,
+                "count": 75
+            },
+            "3": {
+                "avg_price": 55.0,
+                "avg_sqft": 4545.45,
+                "count": 1
+            }
+        }
+    },
+    "188": {
+        "overall": {
+            "avg_price": 53.88,
+            "avg_sqft": 7738.57,
+            "count": 216
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 41.33,
+                "avg_sqft": 7729.07,
+                "count": 104
+            },
+            "2": {
+                "avg_price": 62.9,
+                "avg_sqft": 7749.11,
+                "count": 100
+            },
+            "4": {
+                "avg_price": 68.1,
+                "avg_sqft": 6709.36,
+                "count": 1
+            },
+            "3": {
+                "avg_price": 89.21,
+                "avg_sqft": 7826.22,
+                "count": 11
+            }
+        }
+    },
+    "94": {
+        "overall": {
+            "avg_price": 140.87,
+            "avg_sqft": 13091.66,
+            "count": 286
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 131.59,
+                "avg_sqft": 13134.32,
+                "count": 135
+            },
+            "3": {
+                "avg_price": 213.23,
+                "avg_sqft": 13814.96,
+                "count": 71
+            },
+            "1": {
+                "avg_price": 75.69,
+                "avg_sqft": 12309.11,
+                "count": 73
+            },
+            "4": {
+                "avg_price": 265.71,
+                "avg_sqft": 13093.56,
+                "count": 7
+            }
+        }
+    },
+    "128": {
+        "overall": {
+            "avg_price": 1770.0,
+            "avg_sqft": 51978.4,
+            "count": 19
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 1140.0,
+                "avg_sqft": 56070.76,
+                "count": 7
+            },
+            "5": {
+                "avg_price": 5250.0,
+                "avg_sqft": 71666.67,
+                "count": 2
+            },
+            "2": {
+                "avg_price": 841.67,
+                "avg_sqft": 57919.77,
+                "count": 3
+            },
+            "4": {
+                "avg_price": 1875.0,
+                "avg_sqft": 40834.52,
+                "count": 4
+            },
+            "8": {
+                "avg_price": 3000.0,
+                "avg_sqft": 45112.78,
+                "count": 1
+            },
+            "1": {
+                "avg_price": 125.0,
+                "avg_sqft": 29550.83,
+                "count": 1
+            },
+            "6": {
+                "avg_price": 2000.0,
+                "avg_sqft": 40000.0,
+                "count": 1
+            }
+        }
+    },
+    "23": {
+        "overall": {
+            "avg_price": 129.88,
+            "avg_sqft": 17279.76,
+            "count": 571
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 82.08,
+                "avg_sqft": 16753.65,
+                "count": 277
+            },
+            "4": {
+                "avg_price": 446.4,
+                "avg_sqft": 19492.2,
+                "count": 10
+            },
+            "2": {
+                "avg_price": 140.16,
+                "avg_sqft": 17782.01,
+                "count": 207
+            },
+            "3": {
+                "avg_price": 233.09,
+                "avg_sqft": 17534.81,
+                "count": 77
+            }
+        }
+    },
+    "95": {
+        "overall": {
+            "avg_price": 38.2,
+            "avg_sqft": 4991.36,
+            "count": 10
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 33.25,
+                "avg_sqft": 5430.66,
+                "count": 4
+            },
+            "2": {
+                "avg_price": 41.5,
+                "avg_sqft": 4698.49,
+                "count": 6
+            }
+        }
+    },
+    "9": {
+        "overall": {
+            "avg_price": 73.08,
+            "avg_sqft": 10406.83,
+            "count": 198
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 72.32,
+                "avg_sqft": 10736.33,
+                "count": 84
+            },
+            "3": {
+                "avg_price": 105.43,
+                "avg_sqft": 10788.39,
+                "count": 49
+            },
+            "1": {
+                "avg_price": 49.68,
+                "avg_sqft": 9693.37,
+                "count": 65
+            }
+        }
+    },
+    "220": {
+        "overall": {
+            "avg_price": 347.82,
+            "avg_sqft": 27474.88,
+            "count": 873
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 234.85,
+                "avg_sqft": 25719.59,
+                "count": 356
+            },
+            "3": {
+                "avg_price": 425.71,
+                "avg_sqft": 28690.51,
+                "count": 311
+            },
+            "1": {
+                "avg_price": 137.25,
+                "avg_sqft": 24712.4,
+                "count": 106
+            },
+            "4": {
+                "avg_price": 738.79,
+                "avg_sqft": 33317.67,
+                "count": 92
+            },
+            "8": {
+                "avg_price": 850.0,
+                "avg_sqft": 25875.19,
+                "count": 1
+            },
+            "6": {
+                "avg_price": 602.0,
+                "avg_sqft": 27016.97,
+                "count": 5
+            },
+            "5": {
+                "avg_price": 632.0,
+                "avg_sqft": 30476.05,
+                "count": 2
+            }
+        }
+    },
+    "189": {
+        "overall": {
+            "avg_price": 253.08,
+            "avg_sqft": 24188.3,
+            "count": 339
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 324.5,
+                "avg_sqft": 25339.17,
+                "count": 115
+            },
+            "1": {
+                "avg_price": 104.91,
+                "avg_sqft": 18188.84,
+                "count": 55
+            },
+            "2": {
+                "avg_price": 191.56,
+                "avg_sqft": 24032.3,
+                "count": 144
+            },
+            "4": {
+                "avg_price": 547.62,
+                "avg_sqft": 30706.66,
+                "count": 21
+            },
+            "6": {
+                "avg_price": 961.0,
+                "avg_sqft": 44990.71,
+                "count": 2
+            },
+            "5": {
+                "avg_price": 850.0,
+                "avg_sqft": 44985.47,
+                "count": 2
+            }
+        }
+    },
+    "191": {
+        "overall": {
+            "avg_price": 40.61,
+            "avg_sqft": 5065.63,
+            "count": 18
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 54.67,
+                "avg_sqft": 5376.03,
+                "count": 6
+            },
+            "1": {
+                "avg_price": 32.73,
+                "avg_sqft": 5093.32,
+                "count": 11
+            },
+            "3": {
+                "avg_price": 42.9,
+                "avg_sqft": 2898.65,
+                "count": 1
+            }
+        }
+    },
+    "38": {
+        "overall": {
+            "avg_price": 415.56,
+            "avg_sqft": 44937.28,
+            "count": 9
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 208.0,
+                "avg_sqft": 35509.62,
+                "count": 5
+            },
+            "3": {
+                "avg_price": 675.0,
+                "avg_sqft": 56721.86,
+                "count": 4
+            }
+        }
+    },
+    "22": {
+        "overall": {
+            "avg_price": 66.09,
+            "avg_sqft": 12445.26,
+            "count": 116
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 64.19,
+                "avg_sqft": 12326.04,
+                "count": 110
+            },
+            "2": {
+                "avg_price": 100.83,
+                "avg_sqft": 14630.99,
+                "count": 6
+            }
+        }
+    },
+    "32": {
+        "overall": {
+            "avg_price": 536.84,
+            "avg_sqft": 38555.94,
+            "count": 308
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 643.98,
+                "avg_sqft": 41785.91,
+                "count": 120
+            },
+            "2": {
+                "avg_price": 370.08,
+                "avg_sqft": 38335.4,
+                "count": 120
+            },
+            "4": {
+                "avg_price": 1004.79,
+                "avg_sqft": 41053.76,
+                "count": 34
+            },
+            "1": {
+                "avg_price": 146.03,
+                "avg_sqft": 22176.74,
+                "count": 30
+            },
+            "5": {
+                "avg_price": 1124.33,
+                "avg_sqft": 47952.52,
+                "count": 3
+            },
+            "6": {
+                "avg_price": 1743.0,
+                "avg_sqft": 55686.9,
+                "count": 1
+            }
+        }
+    },
+    "192": {
+        "overall": {
+            "avg_price": 960.74,
+            "avg_sqft": 45897.2,
+            "count": 23
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 1275.45,
+                "avg_sqft": 55834.86,
+                "count": 11
+            },
+            "2": {
+                "avg_price": 552.0,
+                "avg_sqft": 41055.27,
+                "count": 5
+            },
+            "4": {
+                "avg_price": 1050.0,
+                "avg_sqft": 50612.96,
+                "count": 2
+            },
+            "1": {
+                "avg_price": 176.75,
+                "avg_sqft": 27487.46,
+                "count": 4
+            },
+            "6": {
+                "avg_price": 2500.0,
+                "avg_sqft": 25000.0,
+                "count": 1
+            }
+        }
+    },
+    "206": {
+        "overall": {
+            "avg_price": 36.0,
+            "avg_sqft": 6101.69,
+            "count": 1
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 36.0,
+                "avg_sqft": 6101.69,
+                "count": 1
+            }
+        }
+    },
+    "207": {
+        "overall": {
+            "avg_price": 39.5,
+            "avg_sqft": 6235.05,
+            "count": 6
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 33.25,
+                "avg_sqft": 5901.19,
+                "count": 4
+            },
+            "2": {
+                "avg_price": 52.0,
+                "avg_sqft": 6902.76,
+                "count": 2
+            }
+        }
+    },
+    "107": {
+        "overall": {
+            "avg_price": 194.34,
+            "avg_sqft": 18717.7,
+            "count": 870
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 168.71,
+                "avg_sqft": 18641.25,
+                "count": 389
+            },
+            "4": {
+                "avg_price": 429.63,
+                "avg_sqft": 19904.31,
+                "count": 38
+            },
+            "1": {
+                "avg_price": 87.97,
+                "avg_sqft": 17374.6,
+                "count": 222
+            },
+            "3": {
+                "avg_price": 281.39,
+                "avg_sqft": 20317.85,
+                "count": 207
+            },
+            "5": {
+                "avg_price": 732.33,
+                "avg_sqft": 16523.29,
+                "count": 12
+            },
+            "6": {
+                "avg_price": 277.5,
+                "avg_sqft": 7678.12,
+                "count": 2
+            }
+        }
+    },
+    "37": {
+        "overall": {
+            "avg_price": 471.81,
+            "avg_sqft": 44531.13,
+            "count": 27
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 217.09,
+                "avg_sqft": 38990.41,
+                "count": 11
+            },
+            "2": {
+                "avg_price": 460.5,
+                "avg_sqft": 46572.8,
+                "count": 10
+            },
+            "3": {
+                "avg_price": 673.0,
+                "avg_sqft": 45547.62,
+                "count": 5
+            },
+            "4": {
+                "avg_price": 2381.0,
+                "avg_sqft": 79979.85,
+                "count": 1
+            }
+        }
+    },
+    "193": {
+        "overall": {
+            "avg_price": 117.49,
+            "avg_sqft": 17165.01,
+            "count": 174
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 168.76,
+                "avg_sqft": 19257.88,
+                "count": 49
+            },
+            "1": {
+                "avg_price": 74.09,
+                "avg_sqft": 14624.81,
+                "count": 50
+            },
+            "2": {
+                "avg_price": 111.76,
+                "avg_sqft": 17601.78,
+                "count": 74
+            },
+            "4": {
+                "avg_price": 200.0,
+                "avg_sqft": 9302.33,
+                "count": 1
+            }
+        }
+    },
+    "126": {
+        "overall": {
+            "avg_price": 30.57,
+            "avg_sqft": 5157.33,
+            "count": 15
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 41.33,
+                "avg_sqft": 5373.22,
+                "count": 3
+            },
+            "1": {
+                "avg_price": 27.88,
+                "avg_sqft": 5103.36,
+                "count": 12
+            }
+        }
+    },
+    "44": {
+        "overall": {
+            "avg_price": 371.4,
+            "avg_sqft": 24603.49,
+            "count": 116
+        },
+        "bhk_map": {
+            "4": {
+                "avg_price": 658.93,
+                "avg_sqft": 28482.37,
+                "count": 14
+            },
+            "9": {
+                "avg_price": 2313.0,
+                "avg_sqft": 42054.55,
+                "count": 1
+            },
+            "5": {
+                "avg_price": 969.0,
+                "avg_sqft": 31929.56,
+                "count": 5
+            },
+            "3": {
+                "avg_price": 379.0,
+                "avg_sqft": 26106.05,
+                "count": 44
+            },
+            "2": {
+                "avg_price": 219.88,
+                "avg_sqft": 22896.34,
+                "count": 42
+            },
+            "1": {
+                "avg_price": 78.8,
+                "avg_sqft": 14323.66,
+                "count": 10
+            }
+        }
+    },
+    "123": {
+        "overall": {
+            "avg_price": 208.71,
+            "avg_sqft": 19456.77,
+            "count": 84
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 179.1,
+                "avg_sqft": 19581.44,
+                "count": 52
+            },
+            "3": {
+                "avg_price": 250.61,
+                "avg_sqft": 19111.28,
+                "count": 31
+            },
+            "4": {
+                "avg_price": 450.0,
+                "avg_sqft": 23684.21,
+                "count": 1
+            }
+        }
+    },
+    "153": {
+        "overall": {
+            "avg_price": 194.23,
+            "avg_sqft": 16856.78,
+            "count": 227
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 164.41,
+                "avg_sqft": 16036.81,
+                "count": 107
+            },
+            "4": {
+                "avg_price": 455.23,
+                "avg_sqft": 19679.17,
+                "count": 13
+            },
+            "3": {
+                "avg_price": 264.25,
+                "avg_sqft": 18067.63,
+                "count": 52
+            },
+            "1": {
+                "avg_price": 91.14,
+                "avg_sqft": 16159.28,
+                "count": 52
+            },
+            "5": {
+                "avg_price": 700.0,
+                "avg_sqft": 24974.08,
+                "count": 3
+            }
+        }
+    },
+    "167": {
+        "overall": {
+            "avg_price": 116.31,
+            "avg_sqft": 8989.04,
+            "count": 16
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 140.0,
+                "avg_sqft": 9242.54,
+                "count": 4
+            },
+            "2": {
+                "avg_price": 108.42,
+                "avg_sqft": 8904.54,
+                "count": 12
+            }
+        }
+    },
+    "156": {
+        "overall": {
+            "avg_price": 20.7,
+            "avg_sqft": 3905.72,
+            "count": 12
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 19.2,
+                "avg_sqft": 3932.83,
+                "count": 9
+            },
+            "2": {
+                "avg_price": 25.2,
+                "avg_sqft": 3824.39,
+                "count": 3
+            }
+        }
+    },
+    "85": {
+        "overall": {
+            "avg_price": 25.21,
+            "avg_sqft": 4097.28,
+            "count": 17
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 31.25,
+                "avg_sqft": 4073.32,
+                "count": 4
+            },
+            "1": {
+                "avg_price": 23.35,
+                "avg_sqft": 4104.66,
+                "count": 13
+            }
+        }
+    },
+    "71": {
+        "overall": {
+            "avg_price": 282.67,
+            "avg_sqft": 23790.79,
+            "count": 24
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 170.88,
+                "avg_sqft": 19153.47,
+                "count": 8
+            },
+            "3": {
+                "avg_price": 320.22,
+                "avg_sqft": 27500.35,
+                "count": 9
+            },
+            "4": {
+                "avg_price": 410.0,
+                "avg_sqft": 26451.61,
+                "count": 6
+            },
+            "1": {
+                "avg_price": 75.0,
+                "avg_sqft": 11538.46,
+                "count": 1
+            }
+        }
+    },
+    "222": {
+        "overall": {
+            "avg_price": 1072.35,
+            "avg_sqft": 42641.99,
+            "count": 219
+        },
+        "bhk_map": {
+            "4": {
+                "avg_price": 1293.56,
+                "avg_sqft": 43714.1,
+                "count": 62
+            },
+            "5": {
+                "avg_price": 2810.44,
+                "avg_sqft": 51245.54,
+                "count": 18
+            },
+            "1": {
+                "avg_price": 310.0,
+                "avg_sqft": 43430.79,
+                "count": 5
+            },
+            "3": {
+                "avg_price": 786.16,
+                "avg_sqft": 41478.84,
+                "count": 86
+            },
+            "2": {
+                "avg_price": 415.73,
+                "avg_sqft": 41251.13,
+                "count": 41
+            },
+            "6": {
+                "avg_price": 2150.0,
+                "avg_sqft": 37757.11,
+                "count": 3
+            },
+            "7": {
+                "avg_price": 2200.0,
+                "avg_sqft": 31000.0,
+                "count": 2
+            },
+            "8": {
+                "avg_price": 3000.0,
+                "avg_sqft": 30000.0,
+                "count": 1
+            },
+            "10": {
+                "avg_price": 4000.0,
+                "avg_sqft": 25000.0,
+                "count": 1
+            }
+        }
+    },
+    "139": {
+        "overall": {
+            "avg_price": 154.5,
+            "avg_sqft": 15282.29,
+            "count": 2
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 154.5,
+                "avg_sqft": 15282.29,
+                "count": 2
+            }
+        }
+    },
+    "114": {
+        "overall": {
+            "avg_price": 287.37,
+            "avg_sqft": 30219.63,
+            "count": 49
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 166.95,
+                "avg_sqft": 29229.96,
+                "count": 19
+            },
+            "2": {
+                "avg_price": 298.71,
+                "avg_sqft": 29655.74,
+                "count": 21
+            },
+            "3": {
+                "avg_price": 515.11,
+                "avg_sqft": 33624.68,
+                "count": 9
+            }
+        }
+    },
+    "66": {
+        "overall": {
+            "avg_price": 116.75,
+            "avg_sqft": 14031.49,
+            "count": 4
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 135.0,
+                "avg_sqft": 17847.59,
+                "count": 2
+            },
+            "1": {
+                "avg_price": 69.0,
+                "avg_sqft": 9583.33,
+                "count": 1
+            },
+            "3": {
+                "avg_price": 128.0,
+                "avg_sqft": 10847.46,
+                "count": 1
+            }
+        }
+    },
+    "21": {
+        "overall": {
+            "avg_price": 217.94,
+            "avg_sqft": 14702.45,
+            "count": 33
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 254.93,
+                "avg_sqft": 15007.35,
+                "count": 15
+            },
+            "2": {
+                "avg_price": 164.77,
+                "avg_sqft": 14492.1,
+                "count": 13
+            },
+            "4": {
+                "avg_price": 287.75,
+                "avg_sqft": 15033.73,
+                "count": 4
+            },
+            "1": {
+                "avg_price": 75.0,
+                "avg_sqft": 11538.46,
+                "count": 1
+            }
+        }
+    },
+    "212": {
+        "overall": {
+            "avg_price": 43.58,
+            "avg_sqft": 6218.92,
+            "count": 6
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 37.9,
+                "avg_sqft": 5985.78,
+                "count": 5
+            },
+            "2": {
+                "avg_price": 72.0,
+                "avg_sqft": 7384.62,
+                "count": 1
+            }
+        }
+    },
+    "18": {
+        "overall": {
+            "avg_price": 458.11,
+            "avg_sqft": 36626.55,
+            "count": 262
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 238.25,
+                "avg_sqft": 28413.77,
+                "count": 104
+            },
+            "3": {
+                "avg_price": 590.35,
+                "avg_sqft": 44537.98,
+                "count": 84
+            },
+            "4": {
+                "avg_price": 1002.33,
+                "avg_sqft": 50516.36,
+                "count": 30
+            },
+            "1": {
+                "avg_price": 133.89,
+                "avg_sqft": 27873.69,
+                "count": 38
+            },
+            "6": {
+                "avg_price": 1900.0,
+                "avg_sqft": 53886.45,
+                "count": 3
+            },
+            "5": {
+                "avg_price": 1600.0,
+                "avg_sqft": 54527.52,
+                "count": 3
+            }
+        }
+    },
+    "161": {
+        "overall": {
+            "avg_price": 67.5,
+            "avg_sqft": 6839.43,
+            "count": 6
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 53.33,
+                "avg_sqft": 6393.51,
+                "count": 3
+            },
+            "2": {
+                "avg_price": 81.67,
+                "avg_sqft": 7285.35,
+                "count": 3
+            }
+        }
+    },
+    "171": {
+        "overall": {
+            "avg_price": 47.5,
+            "avg_sqft": 6098.9,
+            "count": 2
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 40.0,
+                "avg_sqft": 6153.85,
+                "count": 1
+            },
+            "2": {
+                "avg_price": 55.0,
+                "avg_sqft": 6043.96,
+                "count": 1
+            }
+        }
+    },
+    "127": {
+        "overall": {
+            "avg_price": 32.99,
+            "avg_sqft": 5607.71,
+            "count": 3
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 32.98,
+                "avg_sqft": 5638.46,
+                "count": 2
+            },
+            "2": {
+                "avg_price": 33.0,
+                "avg_sqft": 5546.22,
+                "count": 1
+            }
+        }
+    },
+    "102": {
+        "overall": {
+            "avg_price": 750.65,
+            "avg_sqft": 46651.94,
+            "count": 130
+        },
+        "bhk_map": {
+            "4": {
+                "avg_price": 1095.97,
+                "avg_sqft": 49273.55,
+                "count": 35
+            },
+            "2": {
+                "avg_price": 424.97,
+                "avg_sqft": 45019.56,
+                "count": 30
+            },
+            "3": {
+                "avg_price": 725.03,
+                "avg_sqft": 46364.1,
+                "count": 64
+            },
+            "1": {
+                "avg_price": 74.0,
+                "avg_sqft": 22289.16,
+                "count": 1
+            }
+        }
+    },
+    "165": {
+        "overall": {
+            "avg_price": 57.5,
+            "avg_sqft": 8666.27,
+            "count": 10
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 57.5,
+                "avg_sqft": 8666.27,
+                "count": 10
+            }
+        }
+    },
+    "39": {
+        "overall": {
+            "avg_price": 581.86,
+            "avg_sqft": 35637.92,
+            "count": 111
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 283.09,
+                "avg_sqft": 35216.27,
+                "count": 23
+            },
+            "3": {
+                "avg_price": 599.88,
+                "avg_sqft": 37429.55,
+                "count": 51
+            },
+            "4": {
+                "avg_price": 860.59,
+                "avg_sqft": 34076.47,
+                "count": 29
+            },
+            "1": {
+                "avg_price": 172.0,
+                "avg_sqft": 32101.5,
+                "count": 7
+            },
+            "5": {
+                "avg_price": 1320.0,
+                "avg_sqft": 24000.0,
+                "count": 1
+            }
+        }
+    },
+    "163": {
+        "overall": {
+            "avg_price": 84.4,
+            "avg_sqft": 7920.59,
+            "count": 5
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 92.25,
+                "avg_sqft": 7763.64,
+                "count": 4
+            },
+            "1": {
+                "avg_price": 53.0,
+                "avg_sqft": 8548.39,
+                "count": 1
+            }
+        }
+    },
+    "186": {
+        "overall": {
+            "avg_price": 45.52,
+            "avg_sqft": 4549.27,
+            "count": 7
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 151.0,
+                "avg_sqft": 7550.0,
+                "count": 1
+            },
+            "1": {
+                "avg_price": 19.52,
+                "avg_sqft": 3641.59,
+                "count": 5
+            },
+            "2": {
+                "avg_price": 70.0,
+                "avg_sqft": 6086.96,
+                "count": 1
+            }
+        }
+    },
+    "172": {
+        "overall": {
+            "avg_price": 46.0,
+            "avg_sqft": 7057.22,
+            "count": 3
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 46.0,
+                "avg_sqft": 7057.22,
+                "count": 3
+            }
+        }
+    },
+    "11": {
+        "overall": {
+            "avg_price": 18.25,
+            "avg_sqft": 3541.4,
+            "count": 2
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 18.25,
+                "avg_sqft": 3541.4,
+                "count": 2
+            }
+        }
+    },
+    "214": {
+        "overall": {
+            "avg_price": 105.25,
+            "avg_sqft": 16557.54,
+            "count": 4
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 87.0,
+                "avg_sqft": 16743.39,
+                "count": 3
+            },
+            "2": {
+                "avg_price": 160.0,
+                "avg_sqft": 16000.0,
+                "count": 1
+            }
+        }
+    },
+    "116": {
+        "overall": {
+            "avg_price": 78.0,
+            "avg_sqft": 7576.42,
+            "count": 2
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 78.0,
+                "avg_sqft": 7576.42,
+                "count": 2
+            }
+        }
+    },
+    "82": {
+        "overall": {
+            "avg_price": 152.2,
+            "avg_sqft": 14246.27,
+            "count": 10
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 160.0,
+                "avg_sqft": 19849.62,
+                "count": 2
+            },
+            "3": {
+                "avg_price": 170.0,
+                "avg_sqft": 12142.86,
+                "count": 6
+            },
+            "1": {
+                "avg_price": 91.0,
+                "avg_sqft": 14953.18,
+                "count": 2
+            }
+        }
+    },
+    "150": {
+        "overall": {
+            "avg_price": 80.0,
+            "avg_sqft": 8264.46,
+            "count": 1
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 80.0,
+                "avg_sqft": 8264.46,
+                "count": 1
+            }
+        }
+    },
+    "177": {
+        "overall": {
+            "avg_price": 57.0,
+            "avg_sqft": 8644.72,
+            "count": 3
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 57.0,
+                "avg_sqft": 8644.72,
+                "count": 3
+            }
+        }
+    },
+    "69": {
+        "overall": {
+            "avg_price": 1026.5,
+            "avg_sqft": 43401.31,
+            "count": 138
+        },
+        "bhk_map": {
+            "9": {
+                "avg_price": 3400.0,
+                "avg_sqft": 53543.31,
+                "count": 1
+            },
+            "10": {
+                "avg_price": 4150.0,
+                "avg_sqft": 42237.9,
+                "count": 2
+            },
+            "5": {
+                "avg_price": 2213.17,
+                "avg_sqft": 50896.51,
+                "count": 12
+            },
+            "3": {
+                "avg_price": 619.48,
+                "avg_sqft": 42699.04,
+                "count": 58
+            },
+            "7": {
+                "avg_price": 1700.0,
+                "avg_sqft": 34000.0,
+                "count": 1
+            },
+            "4": {
+                "avg_price": 1150.56,
+                "avg_sqft": 46871.57,
+                "count": 41
+            },
+            "2": {
+                "avg_price": 344.27,
+                "avg_sqft": 32986.85,
+                "count": 15
+            },
+            "6": {
+                "avg_price": 3165.5,
+                "avg_sqft": 56727.47,
+                "count": 4
+            },
+            "1": {
+                "avg_price": 192.5,
+                "avg_sqft": 21653.2,
+                "count": 4
+            }
+        }
+    },
+    "216": {
+        "overall": {
+            "avg_price": 391.9,
+            "avg_sqft": 38773.89,
+            "count": 82
+        },
+        "bhk_map": {
+            "4": {
+                "avg_price": 629.64,
+                "avg_sqft": 41052.43,
+                "count": 11
+            },
+            "1": {
+                "avg_price": 209.57,
+                "avg_sqft": 40830.21,
+                "count": 14
+            },
+            "2": {
+                "avg_price": 280.35,
+                "avg_sqft": 37050.64,
+                "count": 23
+            },
+            "3": {
+                "avg_price": 446.0,
+                "avg_sqft": 38059.76,
+                "count": 32
+            },
+            "5": {
+                "avg_price": 778.0,
+                "avg_sqft": 43091.18,
+                "count": 2
+            }
+        }
+    },
+    "115": {
+        "overall": {
+            "avg_price": 437.81,
+            "avg_sqft": 30364.3,
+            "count": 16
+        },
+        "bhk_map": {
+            "4": {
+                "avg_price": 1025.0,
+                "avg_sqft": 43142.36,
+                "count": 2
+            },
+            "2": {
+                "avg_price": 350.62,
+                "avg_sqft": 33478.51,
+                "count": 8
+            },
+            "1": {
+                "avg_price": 150.0,
+                "avg_sqft": 24772.73,
+                "count": 2
+            },
+            "3": {
+                "avg_price": 283.33,
+                "avg_sqft": 16279.07,
+                "count": 3
+            },
+            "5": {
+                "avg_price": 1000.0,
+                "avg_sqft": 33333.33,
+                "count": 1
+            }
+        }
+    },
+    "218": {
+        "overall": {
+            "avg_price": 25.32,
+            "avg_sqft": 4367.8,
+            "count": 3
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 25.32,
+                "avg_sqft": 4367.8,
+                "count": 3
+            }
+        }
+    },
+    "89": {
+        "overall": {
+            "avg_price": 723.75,
+            "avg_sqft": 41232.05,
+            "count": 4
+        },
+        "bhk_map": {
+            "4": {
+                "avg_price": 1250.0,
+                "avg_sqft": 62500.0,
+                "count": 1
+            },
+            "3": {
+                "avg_price": 548.33,
+                "avg_sqft": 34142.73,
+                "count": 3
+            }
+        }
+    },
+    "175": {
+        "overall": {
+            "avg_price": 35.0,
+            "avg_sqft": 6034.48,
+            "count": 1
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 35.0,
+                "avg_sqft": 6034.48,
+                "count": 1
+            }
+        }
+    },
+    "149": {
+        "overall": {
+            "avg_price": 68.44,
+            "avg_sqft": 9071.12,
+            "count": 8
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 107.33,
+                "avg_sqft": 10812.8,
+                "count": 3
+            },
+            "1": {
+                "avg_price": 45.1,
+                "avg_sqft": 8026.12,
+                "count": 5
+            }
+        }
+    },
+    "25": {
+        "overall": {
+            "avg_price": 97.07,
+            "avg_sqft": 10662.84,
+            "count": 105
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 76.62,
+                "avg_sqft": 10415.69,
+                "count": 62
+            },
+            "2": {
+                "avg_price": 122.37,
+                "avg_sqft": 10887.69,
+                "count": 41
+            },
+            "3": {
+                "avg_price": 212.5,
+                "avg_sqft": 13714.73,
+                "count": 2
+            }
+        }
+    },
+    "166": {
+        "overall": {
+            "avg_price": 50.0,
+            "avg_sqft": 7142.86,
+            "count": 1
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 50.0,
+                "avg_sqft": 7142.86,
+                "count": 1
+            }
+        }
+    },
+    "170": {
+        "overall": {
+            "avg_price": 55.5,
+            "avg_sqft": 7180.33,
+            "count": 2
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 51.0,
+                "avg_sqft": 8360.66,
+                "count": 1
+            },
+            "2": {
+                "avg_price": 60.0,
+                "avg_sqft": 6000.0,
+                "count": 1
+            }
+        }
+    },
+    "169": {
+        "overall": {
+            "avg_price": 290.0,
+            "avg_sqft": 12340.43,
+            "count": 1
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 290.0,
+                "avg_sqft": 12340.43,
+                "count": 1
+            }
+        }
+    },
+    "19": {
+        "overall": {
+            "avg_price": 682.69,
+            "avg_sqft": 31468.36,
+            "count": 72
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 424.21,
+                "avg_sqft": 31217.58,
+                "count": 34
+            },
+            "4": {
+                "avg_price": 1822.14,
+                "avg_sqft": 40670.23,
+                "count": 7
+            },
+            "5": {
+                "avg_price": 3000.0,
+                "avg_sqft": 41720.09,
+                "count": 3
+            },
+            "2": {
+                "avg_price": 307.12,
+                "avg_sqft": 28682.34,
+                "count": 25
+            },
+            "1": {
+                "avg_price": 149.0,
+                "avg_sqft": 23081.75,
+                "count": 2
+            },
+            "10": {
+                "avg_price": 5000.0,
+                "avg_sqft": 31250.0,
+                "count": 1
+            }
+        }
+    },
+    "160": {
+        "overall": {
+            "avg_price": 90.0,
+            "avg_sqft": 15254.24,
+            "count": 1
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 90.0,
+                "avg_sqft": 15254.24,
+                "count": 1
+            }
+        }
+    },
+    "121": {
+        "overall": {
+            "avg_price": 443.33,
+            "avg_sqft": 20668.22,
+            "count": 3
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 443.33,
+                "avg_sqft": 20668.22,
+                "count": 3
+            }
+        }
+    },
+    "219": {
+        "overall": {
+            "avg_price": 45.52,
+            "avg_sqft": 4667.37,
+            "count": 19
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 52.0,
+                "avg_sqft": 5416.67,
+                "count": 1
+            },
+            "1": {
+                "avg_price": 29.71,
+                "avg_sqft": 4753.2,
+                "count": 7
+            },
+            "3": {
+                "avg_price": 54.99,
+                "avg_sqft": 4544.63,
+                "count": 11
+            }
+        }
+    },
+    "158": {
+        "overall": {
+            "avg_price": 135.0,
+            "avg_sqft": 11250.0,
+            "count": 1
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 135.0,
+                "avg_sqft": 11250.0,
+                "count": 1
+            }
+        }
+    },
+    "200": {
+        "overall": {
+            "avg_price": 75.0,
+            "avg_sqft": 12096.77,
+            "count": 1
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 75.0,
+                "avg_sqft": 12096.77,
+                "count": 1
+            }
+        }
+    },
+    "46": {
+        "overall": {
+            "avg_price": 37.06,
+            "avg_sqft": 6071.23,
+            "count": 48
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 49.86,
+                "avg_sqft": 6099.87,
+                "count": 14
+            },
+            "1": {
+                "avg_price": 31.8,
+                "avg_sqft": 6059.44,
+                "count": 34
+            }
+        }
+    },
+    "135": {
+        "overall": {
+            "avg_price": 49.42,
+            "avg_sqft": 5481.22,
+            "count": 8
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 64.67,
+                "avg_sqft": 5476.66,
+                "count": 3
+            },
+            "1": {
+                "avg_price": 40.27,
+                "avg_sqft": 5483.96,
+                "count": 5
+            }
+        }
+    },
+    "48": {
+        "overall": {
+            "avg_price": 47.62,
+            "avg_sqft": 5993.85,
+            "count": 21
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 55.25,
+                "avg_sqft": 6046.62,
+                "count": 10
+            },
+            "1": {
+                "avg_price": 34.83,
+                "avg_sqft": 5777.61,
+                "count": 9
+            },
+            "3": {
+                "avg_price": 67.0,
+                "avg_sqft": 6703.1,
+                "count": 2
+            }
+        }
+    },
+    "178": {
+        "overall": {
+            "avg_price": 175.0,
+            "avg_sqft": 11904.76,
+            "count": 1
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 175.0,
+                "avg_sqft": 11904.76,
+                "count": 1
+            }
+        }
+    },
+    "64": {
+        "overall": {
+            "avg_price": 65.0,
+            "avg_sqft": 10483.87,
+            "count": 1
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 65.0,
+                "avg_sqft": 10483.87,
+                "count": 1
+            }
+        }
+    },
+    "180": {
+        "overall": {
+            "avg_price": 55.0,
+            "avg_sqft": 8148.15,
+            "count": 2
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 55.0,
+                "avg_sqft": 8148.15,
+                "count": 2
+            }
+        }
+    },
+    "199": {
+        "overall": {
+            "avg_price": 15.08,
+            "avg_sqft": 3749.53,
+            "count": 25
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 14.05,
+                "avg_sqft": 3784.63,
+                "count": 20
+            },
+            "2": {
+                "avg_price": 19.2,
+                "avg_sqft": 3609.12,
+                "count": 5
+            }
+        }
+    },
+    "184": {
+        "overall": {
+            "avg_price": 83.5,
+            "avg_sqft": 7545.42,
+            "count": 2
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 83.5,
+                "avg_sqft": 7545.42,
+                "count": 2
+            }
+        }
+    },
+    "63": {
+        "overall": {
+            "avg_price": 367.5,
+            "avg_sqft": 18888.89,
+            "count": 2
+        },
+        "bhk_map": {
+            "4": {
+                "avg_price": 450.0,
+                "avg_sqft": 16666.67,
+                "count": 1
+            },
+            "3": {
+                "avg_price": 285.0,
+                "avg_sqft": 21111.11,
+                "count": 1
+            }
+        }
+    },
+    "227": {
+        "overall": {
+            "avg_price": 105.0,
+            "avg_sqft": 10479.04,
+            "count": 1
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 105.0,
+                "avg_sqft": 10479.04,
+                "count": 1
+            }
+        }
+    },
+    "101": {
+        "overall": {
+            "avg_price": 157.5,
+            "avg_sqft": 29478.26,
+            "count": 2
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 157.5,
+                "avg_sqft": 29478.26,
+                "count": 2
+            }
+        }
+    },
+    "179": {
+        "overall": {
+            "avg_price": 36.0,
+            "avg_sqft": 5642.63,
+            "count": 1
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 36.0,
+                "avg_sqft": 5642.63,
+                "count": 1
+            }
+        }
+    },
+    "224": {
+        "overall": {
+            "avg_price": 63.39,
+            "avg_sqft": 8002.31,
+            "count": 9
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 50.42,
+                "avg_sqft": 7474.3,
+                "count": 6
+            },
+            "2": {
+                "avg_price": 89.33,
+                "avg_sqft": 9058.33,
+                "count": 3
+            }
+        }
+    },
+    "97": {
+        "overall": {
+            "avg_price": 133.33,
+            "avg_sqft": 15642.14,
+            "count": 3
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 150.0,
+                "avg_sqft": 13939.39,
+                "count": 2
+            },
+            "1": {
+                "avg_price": 100.0,
+                "avg_sqft": 19047.62,
+                "count": 1
+            }
+        }
+    },
+    "145": {
+        "overall": {
+            "avg_price": 110.0,
+            "avg_sqft": 14666.67,
+            "count": 1
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 110.0,
+                "avg_sqft": 14666.67,
+                "count": 1
+            }
+        }
+    },
+    "159": {
+        "overall": {
+            "avg_price": 186.67,
+            "avg_sqft": 10609.72,
+            "count": 3
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 186.67,
+                "avg_sqft": 10609.72,
+                "count": 3
+            }
+        }
+    },
+    "146": {
+        "overall": {
+            "avg_price": 160.0,
+            "avg_sqft": 17777.78,
+            "count": 1
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 160.0,
+                "avg_sqft": 17777.78,
+                "count": 1
+            }
+        }
+    },
+    "43": {
+        "overall": {
+            "avg_price": 95.89,
+            "avg_sqft": 15475.39,
+            "count": 9
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 149.0,
+                "avg_sqft": 14914.91,
+                "count": 1
+            },
+            "1": {
+                "avg_price": 89.25,
+                "avg_sqft": 15545.45,
+                "count": 8
+            }
+        }
+    },
+    "112": {
+        "overall": {
+            "avg_price": 704.98,
+            "avg_sqft": 41814.44,
+            "count": 43
+        },
+        "bhk_map": {
+            "4": {
+                "avg_price": 975.5,
+                "avg_sqft": 42691.08,
+                "count": 8
+            },
+            "2": {
+                "avg_price": 447.5,
+                "avg_sqft": 40819.63,
+                "count": 14
+            },
+            "3": {
+                "avg_price": 613.82,
+                "avg_sqft": 42579.48,
+                "count": 17
+            },
+            "5": {
+                "avg_price": 1452.5,
+                "avg_sqft": 40291.53,
+                "count": 4
+            }
+        }
+    },
+    "164": {
+        "overall": {
+            "avg_price": 165.0,
+            "avg_sqft": 12316.51,
+            "count": 4
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 205.0,
+                "avg_sqft": 13694.74,
+                "count": 3
+            },
+            "1": {
+                "avg_price": 45.0,
+                "avg_sqft": 8181.82,
+                "count": 1
+            }
+        }
+    },
+    "73": {
+        "overall": {
+            "avg_price": 19.33,
+            "avg_sqft": 3849.21,
+            "count": 3
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 19.33,
+                "avg_sqft": 3849.21,
+                "count": 3
+            }
+        }
+    },
+    "65": {
+        "overall": {
+            "avg_price": 320.0,
+            "avg_sqft": 38415.37,
+            "count": 1
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 320.0,
+                "avg_sqft": 38415.37,
+                "count": 1
+            }
+        }
+    },
+    "42": {
+        "overall": {
+            "avg_price": 103.8,
+            "avg_sqft": 13976.48,
+            "count": 5
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 134.5,
+                "avg_sqft": 13794.87,
+                "count": 2
+            },
+            "1": {
+                "avg_price": 83.33,
+                "avg_sqft": 14097.55,
+                "count": 3
+            }
+        }
+    },
+    "176": {
+        "overall": {
+            "avg_price": 130.0,
+            "avg_sqft": 13684.21,
+            "count": 1
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 130.0,
+                "avg_sqft": 13684.21,
+                "count": 1
+            }
+        }
+    },
+    "90": {
+        "overall": {
+            "avg_price": 113.75,
+            "avg_sqft": 9200.07,
+            "count": 4
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 113.75,
+                "avg_sqft": 9200.07,
+                "count": 4
+            }
+        }
+    },
+    "13": {
+        "overall": {
+            "avg_price": 1426.67,
+            "avg_sqft": 45887.43,
+            "count": 3
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 1140.0,
+                "avg_sqft": 47997.81,
+                "count": 2
+            },
+            "5": {
+                "avg_price": 2000.0,
+                "avg_sqft": 41666.67,
+                "count": 1
+            }
+        }
+    },
+    "168": {
+        "overall": {
+            "avg_price": 128.0,
+            "avg_sqft": 10199.2,
+            "count": 1
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 128.0,
+                "avg_sqft": 10199.2,
+                "count": 1
+            }
+        }
+    },
+    "45": {
+        "overall": {
+            "avg_price": 59.33,
+            "avg_sqft": 14028.16,
+            "count": 3
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 59.33,
+                "avg_sqft": 14028.16,
+                "count": 3
+            }
+        }
+    },
+    "209": {
+        "overall": {
+            "avg_price": 23.9,
+            "avg_sqft": 4193.49,
+            "count": 10
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 31.14,
+                "avg_sqft": 4428.79,
+                "count": 4
+            },
+            "1": {
+                "avg_price": 19.06,
+                "avg_sqft": 4036.62,
+                "count": 6
+            }
+        }
+    },
+    "195": {
+        "overall": {
+            "avg_price": 160.67,
+            "avg_sqft": 17546.69,
+            "count": 3
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 84.0,
+                "avg_sqft": 17142.86,
+                "count": 1
+            },
+            "3": {
+                "avg_price": 264.0,
+                "avg_sqft": 18206.9,
+                "count": 1
+            },
+            "2": {
+                "avg_price": 134.0,
+                "avg_sqft": 17290.32,
+                "count": 1
+            }
+        }
+    },
+    "12": {
+        "overall": {
+            "avg_price": 250.0,
+            "avg_sqft": 17006.8,
+            "count": 1
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 250.0,
+                "avg_sqft": 17006.8,
+                "count": 1
+            }
+        }
+    },
+    "10": {
+        "overall": {
+            "avg_price": 280.0,
+            "avg_sqft": 29473.68,
+            "count": 1
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 280.0,
+                "avg_sqft": 29473.68,
+                "count": 1
+            }
+        }
+    },
+    "143": {
+        "overall": {
+            "avg_price": 2062.5,
+            "avg_sqft": 43166.67,
+            "count": 4
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 350.0,
+                "avg_sqft": 46666.67,
+                "count": 1
+            },
+            "9": {
+                "avg_price": 3000.0,
+                "avg_sqft": 50000.0,
+                "count": 1
+            },
+            "3": {
+                "avg_price": 900.0,
+                "avg_sqft": 36000.0,
+                "count": 1
+            },
+            "6": {
+                "avg_price": 4000.0,
+                "avg_sqft": 40000.0,
+                "count": 1
+            }
+        }
+    },
+    "77": {
+        "overall": {
+            "avg_price": 370.0,
+            "avg_sqft": 27407.41,
+            "count": 1
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 370.0,
+                "avg_sqft": 27407.41,
+                "count": 1
+            }
+        }
+    },
+    "202": {
+        "overall": {
+            "avg_price": 30.5,
+            "avg_sqft": 4642.31,
+            "count": 1
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 30.5,
+                "avg_sqft": 4642.31,
+                "count": 1
+            }
+        }
+    },
+    "3": {
+        "overall": {
+            "avg_price": 30.2,
+            "avg_sqft": 3809.95,
+            "count": 26
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 32.94,
+                "avg_sqft": 3653.01,
+                "count": 16
+            },
+            "1": {
+                "avg_price": 25.83,
+                "avg_sqft": 4061.04,
+                "count": 10
+            }
+        }
+    },
+    "142": {
+        "overall": {
+            "avg_price": 290.24,
+            "avg_sqft": 13509.87,
+            "count": 17
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 284.31,
+                "avg_sqft": 13731.66,
+                "count": 16
+            },
+            "4": {
+                "avg_price": 385.0,
+                "avg_sqft": 9961.19,
+                "count": 1
+            }
+        }
+    },
+    "211": {
+        "overall": {
+            "avg_price": 14.0,
+            "avg_sqft": 5833.33,
+            "count": 1
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 14.0,
+                "avg_sqft": 5833.33,
+                "count": 1
+            }
+        }
+    },
+    "187": {
+        "overall": {
+            "avg_price": 115.0,
+            "avg_sqft": 10798.12,
+            "count": 2
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 115.0,
+                "avg_sqft": 10798.12,
+                "count": 2
+            }
+        }
+    },
+    "98": {
+        "overall": {
+            "avg_price": 113.0,
+            "avg_sqft": 14321.93,
+            "count": 1
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 113.0,
+                "avg_sqft": 14321.93,
+                "count": 1
+            }
+        }
+    },
+    "60": {
+        "overall": {
+            "avg_price": 91.0,
+            "avg_sqft": 18200.0,
+            "count": 1
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 91.0,
+                "avg_sqft": 18200.0,
+                "count": 1
+            }
+        }
+    },
+    "129": {
+        "overall": {
+            "avg_price": 300.83,
+            "avg_sqft": 17303.84,
+            "count": 6
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 300.83,
+                "avg_sqft": 17303.84,
+                "count": 6
+            }
+        }
+    },
+    "27": {
+        "overall": {
+            "avg_price": 40.0,
+            "avg_sqft": 14035.09,
+            "count": 1
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 40.0,
+                "avg_sqft": 14035.09,
+                "count": 1
+            }
+        }
+    },
+    "174": {
+        "overall": {
+            "avg_price": 130.0,
+            "avg_sqft": 10833.33,
+            "count": 3
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 130.0,
+                "avg_sqft": 10833.33,
+                "count": 3
+            }
+        }
+    },
+    "152": {
+        "overall": {
+            "avg_price": 62.0,
+            "avg_sqft": 5904.76,
+            "count": 1
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 62.0,
+                "avg_sqft": 5904.76,
+                "count": 1
+            }
+        }
+    },
+    "183": {
+        "overall": {
+            "avg_price": 51.0,
+            "avg_sqft": 8160.0,
+            "count": 1
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 51.0,
+                "avg_sqft": 8160.0,
+                "count": 1
+            }
+        }
+    },
+    "29": {
+        "overall": {
+            "avg_price": 261.57,
+            "avg_sqft": 20268.57,
+            "count": 7
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 77.0,
+                "avg_sqft": 16450.0,
+                "count": 2
+            },
+            "3": {
+                "avg_price": 403.75,
+                "avg_sqft": 23370.0,
+                "count": 4
+            },
+            "2": {
+                "avg_price": 62.0,
+                "avg_sqft": 15500.0,
+                "count": 1
+            }
+        }
+    },
+    "14": {
+        "overall": {
+            "avg_price": 30.33,
+            "avg_sqft": 3767.2,
+            "count": 3
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 46.0,
+                "avg_sqft": 4483.43,
+                "count": 1
+            },
+            "1": {
+                "avg_price": 22.5,
+                "avg_sqft": 3409.09,
+                "count": 2
+            }
+        }
+    },
+    "87": {
+        "overall": {
+            "avg_price": 44.53,
+            "avg_sqft": 7484.03,
+            "count": 1
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 44.53,
+                "avg_sqft": 7484.03,
+                "count": 1
+            }
+        }
+    },
+    "49": {
+        "overall": {
+            "avg_price": 16.33,
+            "avg_sqft": 3562.64,
+            "count": 3
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 16.33,
+                "avg_sqft": 3562.64,
+                "count": 3
+            }
+        }
+    },
+    "52": {
+        "overall": {
+            "avg_price": 95.0,
+            "avg_sqft": 17272.73,
+            "count": 1
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 95.0,
+                "avg_sqft": 17272.73,
+                "count": 1
+            }
+        }
+    },
+    "17": {
+        "overall": {
+            "avg_price": 1060.0,
+            "avg_sqft": 73103.45,
+            "count": 1
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 1060.0,
+                "avg_sqft": 73103.45,
+                "count": 1
+            }
+        }
+    },
+    "223": {
+        "overall": {
+            "avg_price": 307.5,
+            "avg_sqft": 23383.93,
+            "count": 2
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 360.0,
+                "avg_sqft": 24000.0,
+                "count": 1
+            },
+            "2": {
+                "avg_price": 255.0,
+                "avg_sqft": 22767.86,
+                "count": 1
+            }
+        }
+    },
+    "103": {
+        "overall": {
+            "avg_price": 326.67,
+            "avg_sqft": 23974.7,
+            "count": 3
+        },
+        "bhk_map": {
+            "4": {
+                "avg_price": 420.0,
+                "avg_sqft": 25454.55,
+                "count": 1
+            },
+            "3": {
+                "avg_price": 280.0,
+                "avg_sqft": 23234.78,
+                "count": 2
+            }
+        }
+    },
+    "36": {
+        "overall": {
+            "avg_price": 825.0,
+            "avg_sqft": 58928.57,
+            "count": 1
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 825.0,
+                "avg_sqft": 58928.57,
+                "count": 1
+            }
+        }
+    },
+    "137": {
+        "overall": {
+            "avg_price": 475.0,
+            "avg_sqft": 41666.67,
+            "count": 1
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 475.0,
+                "avg_sqft": 41666.67,
+                "count": 1
+            }
+        }
+    },
+    "111": {
+        "overall": {
+            "avg_price": 208.81,
+            "avg_sqft": 11216.6,
+            "count": 8
+        },
+        "bhk_map": {
+            "4": {
+                "avg_price": 355.0,
+                "avg_sqft": 14906.98,
+                "count": 2
+            },
+            "2": {
+                "avg_price": 78.25,
+                "avg_sqft": 6339.91,
+                "count": 2
+            },
+            "3": {
+                "avg_price": 260.0,
+                "avg_sqft": 14079.69,
+                "count": 3
+            },
+            "1": {
+                "avg_price": 24.0,
+                "avg_sqft": 5000.0,
+                "count": 1
+            }
+        }
+    },
+    "182": {
+        "overall": {
+            "avg_price": 77.0,
+            "avg_sqft": 10709.32,
+            "count": 1
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 77.0,
+                "avg_sqft": 10709.32,
+                "count": 1
+            }
+        }
+    },
+    "203": {
+        "overall": {
+            "avg_price": 100.0,
+            "avg_sqft": 3378.38,
+            "count": 1
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 100.0,
+                "avg_sqft": 3378.38,
+                "count": 1
+            }
+        }
+    },
+    "54": {
+        "overall": {
+            "avg_price": 35.0,
+            "avg_sqft": 7777.78,
+            "count": 1
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 35.0,
+                "avg_sqft": 7777.78,
+                "count": 1
+            }
+        }
+    },
+    "53": {
+        "overall": {
+            "avg_price": 40.0,
+            "avg_sqft": 5714.29,
+            "count": 1
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 40.0,
+                "avg_sqft": 5714.29,
+                "count": 1
+            }
+        }
+    },
+    "105": {
+        "overall": {
+            "avg_price": 672.5,
+            "avg_sqft": 43245.8,
+            "count": 2
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 672.5,
+                "avg_sqft": 43245.8,
+                "count": 2
+            }
+        }
+    },
+    "221": {
+        "overall": {
+            "avg_price": 33.0,
+            "avg_sqft": 6734.69,
+            "count": 1
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 33.0,
+                "avg_sqft": 6734.69,
+                "count": 1
+            }
+        }
+    },
+    "225": {
+        "overall": {
+            "avg_price": 29.99,
+            "avg_sqft": 5998.0,
+            "count": 1
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 29.99,
+                "avg_sqft": 5998.0,
+                "count": 1
+            }
+        }
+    },
+    "92": {
+        "overall": {
+            "avg_price": 9.0,
+            "avg_sqft": 2465.75,
+            "count": 1
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 9.0,
+                "avg_sqft": 2465.75,
+                "count": 1
+            }
+        }
+    },
+    "33": {
+        "overall": {
+            "avg_price": 110.0,
+            "avg_sqft": 20872.87,
+            "count": 1
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 110.0,
+                "avg_sqft": 20872.87,
+                "count": 1
+            }
+        }
+    },
+    "122": {
+        "overall": {
+            "avg_price": 19.5,
+            "avg_sqft": 2888.89,
+            "count": 1
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 19.5,
+                "avg_sqft": 2888.89,
+                "count": 1
+            }
+        }
+    },
+    "35": {
+        "overall": {
+            "avg_price": 220.0,
+            "avg_sqft": 16923.08,
+            "count": 1
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 220.0,
+                "avg_sqft": 16923.08,
+                "count": 1
+            }
+        }
+    },
+    "106": {
+        "overall": {
+            "avg_price": 2750.0,
+            "avg_sqft": 38480.39,
+            "count": 2
+        },
+        "bhk_map": {
+            "6": {
+                "avg_price": 2750.0,
+                "avg_sqft": 38480.39,
+                "count": 2
+            }
+        }
+    },
+    "226": {
+        "overall": {
+            "avg_price": 150.0,
+            "avg_sqft": 12500.0,
+            "count": 1
+        },
+        "bhk_map": {
+            "3": {
+                "avg_price": 150.0,
+                "avg_sqft": 12500.0,
+                "count": 1
+            }
+        }
+    },
+    "201": {
+        "overall": {
+            "avg_price": 34.0,
+            "avg_sqft": 5573.77,
+            "count": 1
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 34.0,
+                "avg_sqft": 5573.77,
+                "count": 1
+            }
+        }
+    },
+    "110": {
+        "overall": {
+            "avg_price": 22.5,
+            "avg_sqft": 3461.54,
+            "count": 1
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 22.5,
+                "avg_sqft": 3461.54,
+                "count": 1
+            }
+        }
+    },
+    "58": {
+        "overall": {
+            "avg_price": 630.0,
+            "avg_sqft": 12600.0,
+            "count": 2
+        },
+        "bhk_map": {
+            "5": {
+                "avg_price": 630.0,
+                "avg_sqft": 12600.0,
+                "count": 2
+            }
+        }
+    },
+    "118": {
+        "overall": {
+            "avg_price": 122.5,
+            "avg_sqft": 4401.36,
+            "count": 2
+        },
+        "bhk_map": {
+            "4": {
+                "avg_price": 122.5,
+                "avg_sqft": 4401.36,
+                "count": 2
+            }
+        }
+    },
+    "162": {
+        "overall": {
+            "avg_price": 27.0,
+            "avg_sqft": 3913.04,
+            "count": 1
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 27.0,
+                "avg_sqft": 3913.04,
+                "count": 1
+            }
+        }
+    },
+    "138": {
+        "overall": {
+            "avg_price": 47.0,
+            "avg_sqft": 4947.37,
+            "count": 1
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 47.0,
+                "avg_sqft": 4947.37,
+                "count": 1
+            }
+        }
+    },
+    "70": {
+        "overall": {
+            "avg_price": 475.0,
+            "avg_sqft": 36651.23,
+            "count": 1
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 475.0,
+                "avg_sqft": 36651.23,
+                "count": 1
+            }
+        }
+    },
+    "0": {
+        "overall": {
+            "avg_price": 35.0,
+            "avg_sqft": 5384.62,
+            "count": 1
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 35.0,
+                "avg_sqft": 5384.62,
+                "count": 1
+            }
+        }
+    },
+    "210": {
+        "overall": {
+            "avg_price": 12.5,
+            "avg_sqft": 2777.78,
+            "count": 1
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 12.5,
+                "avg_sqft": 2777.78,
+                "count": 1
+            }
+        }
+    },
+    "181": {
+        "overall": {
+            "avg_price": 72.0,
+            "avg_sqft": 9000.0,
+            "count": 1
+        },
+        "bhk_map": {
+            "2": {
+                "avg_price": 72.0,
+                "avg_sqft": 9000.0,
+                "count": 1
+            }
+        }
+    },
+    "144": {
+        "overall": {
+            "avg_price": 25.0,
+            "avg_sqft": 4258.94,
+            "count": 1
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 25.0,
+                "avg_sqft": 4258.94,
+                "count": 1
+            }
+        }
+    },
+    "173": {
+        "overall": {
+            "avg_price": 60.0,
+            "avg_sqft": 6000.0,
+            "count": 1
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 60.0,
+                "avg_sqft": 6000.0,
+                "count": 1
+            }
+        }
+    },
+    "109": {
+        "overall": {
+            "avg_price": 62.0,
+            "avg_sqft": 16756.76,
+            "count": 9
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 62.0,
+                "avg_sqft": 16756.76,
+                "count": 9
+            }
+        }
+    },
+    "99": {
+        "overall": {
+            "avg_price": 70.0,
+            "avg_sqft": 16279.07,
+            "count": 4
+        },
+        "bhk_map": {
+            "1": {
+                "avg_price": 70.0,
+                "avg_sqft": 16279.07,
+                "count": 4
+            }
+        }
+    }
+}
