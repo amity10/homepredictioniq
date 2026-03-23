@@ -11,4 +11,5 @@ urlpatterns = [
     path("recommendations/", views.get_recommendations),
     path("analytics/features/", views.get_analytics_features),
     path("analytics/market_status/", views.get_market_status),
+    path('all_predictions/', views.get_all_predictions),
 ]

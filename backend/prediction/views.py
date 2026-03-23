@@ -459,3 +459,28 @@ def get_market_status(request):
         "city_avg": round(city_avg, 1),
         "region_label": region_label
     })
+
+@api_view(["GET"])
+@authentication_classes([])
+@permission_classes([AllowAny])
+def get_all_predictions(request):
+    try:
+        predictions = PredictionLog.objects.all().order_by('-created_at')
+        
+        data = [
+            {
+                "id": p.id,
+                "bhk": p.bhk,
+                "area": p.area,
+                "region_label": p.region_label,
+                "predicted_price": p.predicted_price,
+                "created_at": p.created_at,
+                "is_saved": p.is_saved,
+            }
+            for p in predictions
+        ]
+
+        return Response(data)
+
+    except Exception as e:
+        return Response({"error": str(e)}, status=500)
